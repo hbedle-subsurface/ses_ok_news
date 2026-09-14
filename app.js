@@ -30,6 +30,10 @@ const F = {
 };
 
 const $ = s => document.querySelector(s);
+/* Sidebar sections are optional. If index.html is missing one, that section
+   is skipped rather than throwing and leaving the rest of the page blank. */
+const slot = s => document.querySelector(s) || { innerHTML: '', textContent: '',
+                                                 appendChild() {} };
 const $$ = s => Array.from(document.querySelectorAll(s));
 const esc4 = s => String(s == null ? '' : s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -193,14 +197,14 @@ const TOPIC_LABEL = {
 function topicLabel(id) { return TOPIC_LABEL[id] || id; }
 
 function renderControls(hits) {
-  const strip = $('#strip'); strip.innerHTML = '';
+  const strip = slot('#strip'); strip.innerHTML = '';
   const maxState = Math.max(1, ...Object.values(STATE_TOTALS));
   const live = {};
   for (const a of hits) for (const s of placesOf(a)) live[s] = (live[s] || 0) + 1;
   const names = Object.keys(STATE_TOTALS).sort();
   const few = names.length <= 16;
 
-  $('#striplab').textContent = hits.length === ALL.length
+  slot('#striplab').textContent = hits.length === ALL.length
     ? 'Articles per state. Click one to filter.'
     : 'Bar height is each state\u2019s full total; the solid part is what the filters leave.';
 
@@ -222,18 +226,18 @@ function renderControls(hits) {
     strip.appendChild(b);
   }
 
-  const sp = $('#statepick'); sp.innerHTML = '';
+  const sp = slot('#statepick'); sp.innerHTML = '';
   for (const s of names) {
     sp.appendChild(chip(s, STATE_TOTALS[s], F.states.has(s),
       () => { toggle(F.states, s); render(); }));
   }
   const guessed = ALL.filter(a => !(a.states || []).length && (a.via_states || []).length).length;
-  $('#statenote').textContent = guessed
+  slot('#statenote').textContent = guessed
     ? guessed + ' of these name no state in the headline and are placed by which '
       + 'search found them. The exported table keeps the two apart.'
     : '';
 
-  const tp = $('#topicpick'); tp.innerHTML = '';
+  const tp = slot('#topicpick'); tp.innerHTML = '';
   const topics = {};
   for (const a of ALL) for (const t of a.topics || []) topics[t] = (topics[t] || 0) + 1;
   for (const t of Object.keys(topics).sort()) {
@@ -241,14 +245,14 @@ function renderControls(hits) {
       () => { toggle(F.topics, t); render(); }));
   }
 
-  const dp = $('#datepick'); dp.innerHTML = '';
+  const dp = slot('#datepick'); dp.innerHTML = '';
   for (const [d, label] of [[7, 'Past week'], [30, 'Past month'],
                             [90, 'Past 3 months'], [0, 'Everything']]) {
     dp.appendChild(chip(label, ALL.filter(a => !d || daysAgo(a.published) <= d).length,
       F.days === d, () => { F.days = d; render(); }));
   }
 
-  const op = $('#outletpick'); op.innerHTML = '';
+  const op = slot('#outletpick'); op.innerHTML = '';
   const outlets = {};
   for (const a of ALL) if (!a.weak) outlets[a.outlet] = (outlets[a.outlet] || 0) + 1;
   const top = Object.entries(outlets).sort((x, y) => y[1] - x[1]).slice(0, 12);
@@ -257,7 +261,7 @@ function renderControls(hits) {
       () => { toggle(F.outlets, name); render(); }));
   }
 
-  const mp = $('#markpick'); mp.innerHTML = '';
+  const mp = slot('#markpick'); mp.innerHTML = '';
   const cnt = fn => ALL.filter(fn).length;
   mp.appendChild(chip('Not read yet', cnt(a => !(CODES[a.id] && CODES[a.id].read)),
     F.marks.has('unread'), () => { toggle(F.marks, 'unread'); render(); }, 'g'));
@@ -268,27 +272,27 @@ function renderControls(hits) {
   mp.appendChild(chip('With a note', cnt(a => CODES[a.id] && CODES[a.id].note),
     F.marks.has('noted'), () => { toggle(F.marks, 'noted'); render(); }, 'g'));
 
-  const ep = $('#elsewherepick');
-  if (ep) {
+  const ep = slot('#elsewherepick');
+  {
     ep.innerHTML = '';
     const away = ALL.filter(a => a.elsewhere).length;
     if (away) {
       ep.appendChild(chip(F.hideElsewhere ? 'Hidden' : 'Showing them', away,
         F.hideElsewhere, () => { F.hideElsewhere = !F.hideElsewhere; render(); }, 'g'));
-      $('#elsewherenote').textContent = away + ' articles name a state other than '
+      slot('#elsewherenote').textContent = away + ' articles name a state other than '
         + 'Oklahoma. They are kept because they are often the same story from a '
         + 'competing state \u2014 West Virginia and Tennessee are bidding for the same '
         + 'DOE nuclear campus \u2014 but they should not sit unmarked among Oklahoma\u2019s own.';
     } else {
-      $('#elsewherenote').textContent = 'Nothing so far from outside Oklahoma.';
+      slot('#elsewherenote').textContent = 'Nothing so far from outside Oklahoma.';
     }
   }
 
-  const wp = $('#weakpick'); wp.innerHTML = '';
+  const wp = slot('#weakpick'); wp.innerHTML = '';
   const weak = ALL.filter(a => a.weak).length;
   wp.appendChild(chip(F.showWeak ? 'Showing them' : 'Hidden', weak, F.showWeak,
     () => { F.showWeak = !F.showWeak; render(); }, 'g'));
-  $('#weaknote').textContent = weak
+  slot('#weaknote').textContent = weak
     ? 'A search for "solar farm" in Texas also turns up module prices and earnings '
       + 'reports. These scored too low to look like a local siting story. Worth a '
       + 'glance now and then to see what is being thrown away.'
@@ -296,7 +300,7 @@ function renderControls(hits) {
 }
 
 function renderActive() {
-  const box = $('#active'); box.innerHTML = '';
+  const box = slot('#active'); box.innerHTML = '';
   const items = [];
   for (const v of F.states) items.push([v, () => F.states.delete(v)]);
   for (const v of F.topics) items.push([topicLabel(v), () => F.topics.delete(v)]);
@@ -341,13 +345,13 @@ function render() {
   renderActive();
 
   const strong = ALL.filter(a => !a.weak).length;
-  $('#counts').innerHTML = '<b>' + strong + '</b> articles worth reading · '
+  slot('#counts').innerHTML = '<b>' + strong + '</b> articles worth reading · '
     + (ALL.length - strong) + ' set aside';
-  $('#updated').textContent = META.updated
+  slot('#updated').textContent = META.updated
     ? 'collected through ' + META.updated.slice(0, 10) : '';
 
   const read = hits.filter(a => CODES[a.id] && CODES[a.id].read).length;
-  $('#hits').textContent = hits.length + ' article' + (hits.length === 1 ? '' : 's')
+  slot('#hits').textContent = hits.length + ' article' + (hits.length === 1 ? '' : 's')
     + (hits.length ? ' · ' + read + ' read' : '');
 
   if (SELECTED && hits.some(a => a.id === SELECTED)) renderDetail(hits);
@@ -357,7 +361,7 @@ function render() {
   renderTally(hits);
 
   const r = RUNS[0];
-  $('#runinfo').textContent = r
+  slot('#runinfo').textContent = r
     ? r.when.slice(0, 10) + ' — ' + r.searches + ' searches, ' + r.new
       + ' new, ' + r.total + ' on file'
       + (r.problems && r.problems.length ? '. ' + r.problems.length + ' searches had trouble.' : '')
@@ -505,12 +509,12 @@ function renderWork() {
   const ul = $('#work'); ul.innerHTML = '';
   const starred = ALL.filter(a => CODES[a.id] && CODES[a.id].star);
   if (!starred.length) {
-    $('#worknote').textContent = 'Open an article and add it here when it is worth '
+    slot('#worknote').textContent = 'Open an article and add it here when it is worth '
       + 'coming back to — a project to track, or a fight worth reading the whole '
       + 'record on.';
     return;
   }
-  $('#worknote').textContent = starred.length + ' article'
+  slot('#worknote').textContent = starred.length + ' article'
     + (starred.length === 1 ? '' : 's') + ' set aside.';
   for (const a of starred) {
     const li = document.createElement('li');
@@ -538,7 +542,7 @@ function renderTally(hits) {
   const rows = BOOK.categories.map(c => ({ c, n: src[c.id] || 0 }))
     .filter(x => x.n > 0).sort((a, b) => b.n - a.n).slice(0, 14);
 
-  if (!rows.length) { $('#tallynote').textContent = 'Nothing to count yet.'; return; }
+  if (!rows.length) { slot('#tallynote').textContent = 'Nothing to count yet.'; return; }
   for (const { c, n } of rows) {
     const li = document.createElement('li');
     li.innerHTML = '<span class="tn">' + n + '</span>'
@@ -546,7 +550,7 @@ function renderTally(hits) {
       + '<span class="tl" title="' + esc4(c.hint) + '">' + esc4(c.label) + '</span>';
     ul.appendChild(li);
   }
-  $('#tallynote').textContent = own
+  slot('#tallynote').textContent = own
     ? 'Counting the categories you confirmed after reading.'
     : 'Counting headline word matches only. Headlines are short, so this undercounts '
     + 'badly. It is replaced by your own codes as soon as you confirm any.';
