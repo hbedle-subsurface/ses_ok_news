@@ -1,0 +1,386 @@
+{
+ "_comment": [
+  "News coverage of energy infrastructure siting in Oklahoma and the public",
+  "response to it. The news half of ses_ok_yt, which does the same for",
+  "YouTube comments; both read the same codebook, so their exports carry the",
+  "same columns and can be stacked in a spreadsheet.",
+  "",
+  "Oklahoma only. Unlike YouTube, GDELT and Google News do respect a state",
+  "name in a query, so state-level searching works here and there is no need",
+  "to go county by county.",
+  "",
+  "Neither source needs a key, so nothing goes in repository secrets and",
+  "there is no quota shared with the YouTube crawlers.",
+  "",
+  "Phrases with spaces must stay in quotes. subjects are what gets searched;",
+  "recognize is the wider vocabulary used to judge whether a result belongs.",
+  "Both engines reject long queries, so only the first six angles are used."
+ ],
+ "states": [
+  "Oklahoma"
+ ],
+ "topics": [
+  {
+   "id": "solar",
+   "label": "Solar",
+   "per_state": true,
+   "subjects": [
+    "\"solar farm\"",
+    "\"solar project\""
+   ],
+   "recognize": [
+    "solar farm",
+    "solar project",
+    "solar array",
+    "utility-scale solar",
+    "solar development",
+    "solar plant"
+   ],
+   "angles": [
+    "moratorium",
+    "opposition",
+    "residents",
+    "zoning",
+    "hearing",
+    "\"county commission\"",
+    "setback",
+    "petition",
+    "landowners"
+   ]
+  },
+  {
+   "id": "wind",
+   "label": "Wind",
+   "per_state": true,
+   "subjects": [
+    "\"wind farm\"",
+    "\"wind turbine\""
+   ],
+   "recognize": [
+    "wind farm",
+    "wind project",
+    "wind turbine",
+    "turbines",
+    "wind energy",
+    "repower",
+    "decommission"
+   ],
+   "angles": [
+    "moratorium",
+    "opposition",
+    "residents",
+    "zoning",
+    "hearing",
+    "\"county commission\"",
+    "setback",
+    "petition",
+    "landowners"
+   ]
+  },
+  {
+   "id": "storage",
+   "label": "Battery storage",
+   "per_state": true,
+   "subjects": [
+    "\"battery storage\"",
+    "\"energy storage\""
+   ],
+   "recognize": [
+    "battery storage",
+    "bess",
+    "energy storage",
+    "battery facility",
+    "grid battery"
+   ],
+   "angles": [
+    "fire",
+    "moratorium",
+    "zoning",
+    "residents",
+    "hearing",
+    "setback"
+   ]
+  },
+  {
+   "id": "data_center",
+   "label": "Data centers",
+   "per_state": true,
+   "subjects": [
+    "\"data center\"",
+    "\"data centers\""
+   ],
+   "recognize": [
+    "data center",
+    "data centre",
+    "hyperscale",
+    "server farm",
+    "ai campus"
+   ],
+   "angles": [
+    "moratorium",
+    "rezoning",
+    "\"city council\"",
+    "water",
+    "ratepayers",
+    "residents"
+   ]
+  },
+  {
+   "id": "carbon_capture",
+   "label": "Carbon capture and CO2 pipelines",
+   "per_state": true,
+   "subjects": [
+    "\"carbon capture\"",
+    "\"CO2 pipeline\"",
+    "\"carbon sequestration\""
+   ],
+   "recognize": [
+    "carbon capture",
+    "carbon sequestration",
+    "co2 pipeline",
+    "class vi",
+    "pore space",
+    "carbon storage",
+    "injection well",
+    "direct air capture"
+   ],
+   "angles": [
+    "landowners",
+    "\"eminent domain\"",
+    "easement",
+    "residents",
+    "hearing",
+    "opposition"
+   ]
+  },
+  {
+   "id": "nuclear",
+   "label": "Nuclear",
+   "per_state": true,
+   "subjects": [
+    "\"nuclear\" energy",
+    "\"small modular reactor\"",
+    "\"nuclear innovation campus\""
+   ],
+   "recognize": [
+    "nuclear",
+    "reactor",
+    "smr",
+    "small modular",
+    "enrichment",
+    "fuel fabrication",
+    "spent fuel",
+    "nuclear waste",
+    "innovation campus",
+    "nlic"
+   ],
+   "angles": [
+    "site",
+    "host",
+    "residents",
+    "opposition",
+    "hearing",
+    "commission"
+   ]
+  },
+  {
+   "id": "hydrogen",
+   "label": "Hydrogen",
+   "per_state": true,
+   "subjects": [
+    "\"hydrogen\" plant",
+    "\"hydrogen hub\""
+   ],
+   "recognize": [
+    "hydrogen",
+    "electrolyzer",
+    "hydrogen hub",
+    "ammonia plant"
+   ],
+   "angles": [
+    "residents",
+    "opposition",
+    "zoning",
+    "hearing",
+    "county",
+    "permit"
+   ]
+  },
+  {
+   "id": "hydropower",
+   "label": "Hydropower and dams",
+   "per_state": true,
+   "subjects": [
+    "\"Pensacola Dam\"",
+    "\"Grand River Dam Authority\"",
+    "hydropower relicensing"
+   ],
+   "recognize": [
+    "pensacola dam",
+    "grand river dam",
+    "grda",
+    "hydropower",
+    "hydroelectric",
+    "relicensing",
+    "grand lake",
+    "spillway",
+    "flooding"
+   ],
+   "angles": [
+    "flooding",
+    "landowners",
+    "easement",
+    "tribes",
+    "ferc",
+    "lawsuit"
+   ]
+  },
+  {
+   "id": "transmission",
+   "label": "Transmission lines",
+   "per_state": true,
+   "subjects": [
+    "\"transmission line\"",
+    "\"power line\" route"
+   ],
+   "recognize": [
+    "transmission line",
+    "power line",
+    "high voltage",
+    "substation",
+    "right of way",
+    "utility corridor",
+    "interconnection"
+   ],
+   "angles": [
+    "landowners",
+    "\"eminent domain\"",
+    "easement",
+    "route",
+    "opposition",
+    "hearing"
+   ]
+  },
+  {
+   "id": "disposal_seismicity",
+   "label": "Disposal wells and earthquakes",
+   "per_state": true,
+   "subjects": [
+    "\"injection well\" earthquake",
+    "\"disposal well\""
+   ],
+   "recognize": [
+    "injection well",
+    "disposal well",
+    "wastewater disposal",
+    "induced seismicity",
+    "earthquake",
+    "saltwater disposal"
+   ],
+   "angles": [
+    "earthquake",
+    "residents",
+    "damage",
+    "commission",
+    "directive",
+    "complaint"
+   ]
+  },
+  {
+   "id": "geothermal",
+   "label": "Geothermal",
+   "per_state": true,
+   "subjects": [
+    "geothermal energy",
+    "\"enhanced geothermal\""
+   ],
+   "recognize": [
+    "geothermal",
+    "enhanced geothermal",
+    "egs",
+    "hot dry rock"
+   ],
+   "angles": [
+    "project",
+    "drilling",
+    "county",
+    "residents",
+    "plant",
+    "permit"
+   ]
+  },
+  {
+   "id": "biogas",
+   "label": "Biogas and digesters",
+   "per_state": true,
+   "subjects": [
+    "\"anaerobic digester\"",
+    "\"renewable natural gas\""
+   ],
+   "recognize": [
+    "anaerobic digester",
+    "biogas",
+    "renewable natural gas",
+    "poultry litter",
+    "digester",
+    "landfill gas"
+   ],
+   "angles": [
+    "odor",
+    "neighbors",
+    "residents",
+    "zoning",
+    "permit",
+    "complaint"
+   ]
+  },
+  {
+   "id": "agrivoltaics",
+   "label": "Agrivoltaics",
+   "per_state": false,
+   "subjects": [
+    "agrivoltaics Oklahoma",
+    "\"solar grazing\" Oklahoma"
+   ],
+   "recognize": [
+    "agrivoltaic",
+    "solar grazing",
+    "dual-use solar",
+    "sheep graz"
+   ],
+   "angles": []
+  },
+  {
+   "id": "solar_on_water",
+   "label": "Solar on canals and reservoirs",
+   "per_state": false,
+   "subjects": [
+    "\"floating solar\" Oklahoma",
+    "\"canal solar\""
+   ],
+   "recognize": [
+    "floating solar",
+    "canal solar",
+    "solar canal",
+    "reservoir solar",
+    "floatovoltaic"
+   ],
+   "angles": []
+  }
+ ],
+ "_relevance_comment": [
+  "A result is kept when it scores 2 or more: a subject phrase in the",
+  "headline is worth 2, each angle word 1 up to 2, a state or county name 1.",
+  "Everything else is still stored and can be shown, just marked weak."
+ ],
+ "keep_threshold": 2,
+ "_limits_comment": [
+  "GDELT asks for one request every five seconds and caps any single search",
+  "at 250 articles. max_age_days only affects how far back a run reaches;",
+  "articles already collected are never dropped because they aged out."
+ ],
+ "gdelt_pause_seconds": 6,
+ "gdelt_max_records": 250,
+ "max_age_days": 30,
+ "keep_total": 8000
+}
