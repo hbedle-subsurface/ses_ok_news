@@ -1,1 +1,42 @@
-{"runs": []}
+{
+ "runs": [
+  {
+   "when": "2026-09-14T13:04:59+00:00",
+   "searches": 43,
+   "states": [
+    "Oklahoma"
+   ],
+   "days": 90,
+   "results": 1095,
+   "new": 683,
+   "total": 683,
+   "problems": [
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt wind/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt wind/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt storage/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt storage/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt storage/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt data_center/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt data_center/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt data_center/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt nuclear/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt nuclear/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt nuclear/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydrogen/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydrogen/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydrogen/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydropower/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydropower/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydropower/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydropower/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests"
+   ]
+  }
+ ]
+}
