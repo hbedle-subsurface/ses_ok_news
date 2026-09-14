@@ -7,7 +7,7 @@
    from GitHub Pages cannot write back to the repository.
 ------------------------------------------------------------------ */
 
-const SAVE_KEY = 'solar_news_codes_v1';
+const SAVE_KEY = 'ses_ok_news_codes_v1';
 
 let BOOK = null;          // codebook.json
 let ALL = [];             // every collected article
@@ -25,7 +25,8 @@ const F = {
   outlets: new Set(),
   marks: new Set(),
   days: 0,             // 0 means everything
-  showWeak: false
+  showWeak: false,
+  hideElsewhere: false
 };
 
 const $ = s => document.querySelector(s);
@@ -93,19 +94,19 @@ function showOpening(title, html) {
 function showEmpty() {
   showOpening('Nothing collected yet',
     '<p>The crawler has not run, so there is nothing to read. It searches GDELT and '
-    + 'Google News for coverage of solar projects meeting local opposition, and writes '
-    + 'what it finds back into this repository.</p>'
+    + 'Google News for coverage of energy infrastructure proposed in Oklahoma and the '
+    + 'public response to it, and writes what it finds back into this repository.</p>'
     + '<h3>Starting it</h3>'
     + '<ol class="steps">'
     + '<li>Go to the <b>Actions</b> tab of this repository.</li>'
-    + '<li>Choose <b>Collect news</b> in the left column.</li>'
-    + '<li>Press <b>Run workflow</b>. Leave the boxes blank for the usual eight '
-    + 'states and the last thirty days.</li>'
-    + '<li>It takes four or five minutes. Reload this page when it finishes.</li>'
+    + '<li>Choose <b>Collect Oklahoma energy news</b> in the left column.</li>'
+    + '<li>Press <b>Run workflow</b>. On a first run set <b>days</b> to 90; leave the '
+    + 'other boxes blank.</li>'
+    + '<li>It takes five or six minutes. Reload this page when it finishes.</li>'
     + '</ol>'
-    + '<p class="quiet">After that it runs itself every Monday. GDELT only indexes '
+    + '<p class="quiet">After that it runs itself every Friday. GDELT only indexes '
     + 'about three months back, so the weekly run is what builds the archive — '
-    + 'coverage from a month you skip cannot be recovered later.</p>');
+    + 'coverage from a month nobody collects cannot be recovered later.</p>');
 }
 
 function computeTotals() {
@@ -135,6 +136,7 @@ function daysAgo(iso) {
 
 function passes(a) {
   if (a.weak && !F.showWeak) return false;
+  if (F.hideElsewhere && a.elsewhere) return false;
   if (F.states.size && !placesOf(a).some(s => F.states.has(s))) return false;
   if (F.topics.size && !(a.topics || []).some(t => F.topics.has(t))) return false;
   if (F.outlets.size && !F.outlets.has(a.outlet)) return false;
@@ -179,11 +181,16 @@ function buildControls() {
   $('#sessfile').addEventListener('change', importSession);
 }
 
-function topicLabel(id) {
-  const t = { solar_siting: 'Siting and opposition', agrivoltaics: 'Agrivoltaics',
-              solar_on_water: 'Canals and reservoirs' };
-  return t[id] || id;
-}
+const TOPIC_LABEL = {
+  solar: 'Solar', wind: 'Wind', storage: 'Battery storage',
+  data_center: 'Data centers', carbon_capture: 'Carbon capture and CO2 pipelines',
+  nuclear: 'Nuclear', hydrogen: 'Hydrogen', hydropower: 'Hydropower and dams',
+  transmission: 'Transmission lines',
+  disposal_seismicity: 'Disposal wells and earthquakes',
+  geothermal: 'Geothermal', biogas: 'Biogas and digesters',
+  agrivoltaics: 'Agrivoltaics', solar_on_water: 'Canals and reservoirs'
+};
+function topicLabel(id) { return TOPIC_LABEL[id] || id; }
 
 function renderControls(hits) {
   const strip = $('#strip'); strip.innerHTML = '';
@@ -261,6 +268,22 @@ function renderControls(hits) {
   mp.appendChild(chip('With a note', cnt(a => CODES[a.id] && CODES[a.id].note),
     F.marks.has('noted'), () => { toggle(F.marks, 'noted'); render(); }, 'g'));
 
+  const ep = $('#elsewherepick');
+  if (ep) {
+    ep.innerHTML = '';
+    const away = ALL.filter(a => a.elsewhere).length;
+    if (away) {
+      ep.appendChild(chip(F.hideElsewhere ? 'Hidden' : 'Showing them', away,
+        F.hideElsewhere, () => { F.hideElsewhere = !F.hideElsewhere; render(); }, 'g'));
+      $('#elsewherenote').textContent = away + ' articles name a state other than '
+        + 'Oklahoma. They are kept because they are often the same story from a '
+        + 'competing state \u2014 West Virginia and Tennessee are bidding for the same '
+        + 'DOE nuclear campus \u2014 but they should not sit unmarked among Oklahoma\u2019s own.';
+    } else {
+      $('#elsewherenote').textContent = 'Nothing so far from outside Oklahoma.';
+    }
+  }
+
   const wp = $('#weakpick'); wp.innerHTML = '';
   const weak = ALL.filter(a => a.weak).length;
   wp.appendChild(chip(F.showWeak ? 'Showing them' : 'Hidden', weak, F.showWeak,
@@ -281,6 +304,7 @@ function renderActive() {
   for (const v of F.marks) items.push([MARK_LABEL[v] || v, () => F.marks.delete(v)]);
   if (F.days) items.push(['past ' + F.days + ' days', () => { F.days = 0; }]);
   if (F.showWeak) items.push(['including off-topic', () => { F.showWeak = false; }]);
+  if (F.hideElsewhere) items.push(['Oklahoma only', () => { F.hideElsewhere = false; }]);
   if (F.q) items.push(['contains "' + F.q + '"', () => { F.q = ''; $('#q').value = ''; }]);
   if (!items.length) return;
 
@@ -299,6 +323,7 @@ function renderActive() {
     c.addEventListener('click', () => {
       F.q = ''; $('#q').value = ''; F.days = 0; F.showWeak = false;
       F.states.clear(); F.topics.clear(); F.outlets.clear(); F.marks.clear();
+      F.hideElsewhere = false;
       render();
     });
     box.appendChild(c);
@@ -430,6 +455,7 @@ function renderDetail(hits) {
         ((a.states || []).length ? ' · ' + esc4(a.states.join(', ')) : '') +
         (!(a.states || []).length && (a.via_states || []).length
           ? ' · found by the ' + esc4(a.via_states.join('/')) + ' search' : '') +
+        (a.elsewhere ? ' · ' + esc4((a.other_states || []).join(', ')) : '') +
         (a.weak ? ' · set aside as off-topic' : '') + '</div>' +
       '<div class="readfirst">' +
         '<a class="btn" href="' + esc4(a.url) + '" target="_blank" rel="noopener">'
@@ -552,7 +578,8 @@ function exportCoded() {
     const c = CODES[a.id] || { tags: [], note: '', star: false, read: false };
     return [a.id, a.title, a.outlet, a.published, a.url, (a.topics || []).join(';'),
             (a.states || []).join(';'), (a.via_states || []).join(';'),
-            (a.counties || []).join(';'), a.score, a.weak ? 1 : 0,
+            (a.other_states || []).join(';'), a.elsewhere ? 1 : 0,
+            a.score, a.weak ? 1 : 0,
             c.read ? 1 : 0, c.star ? 1 : 0, c.tags.length, c.note]
       .concat(BOOK.categories.map(x => c.tags.includes(x.id) ? 1 : 0));
   });
