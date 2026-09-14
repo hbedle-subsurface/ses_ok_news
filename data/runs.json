@@ -1,1 +1,40 @@
-{"runs": []}
+{
+ "runs": [
+  {
+   "when": "2026-09-14T02:15:45+00:00",
+   "searches": 31,
+   "states": [
+    "Oklahoma"
+   ],
+   "days": 90,
+   "results": 960,
+   "new": 629,
+   "total": 629,
+   "problems": [
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt solar/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt wind/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt wind/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt storage/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt storage/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt data_center/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt carbon_capture/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt nuclear/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydrogen/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydrogen/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt hydropower/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt transmission/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt disposal_seismicity/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt disposal_seismicity/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt geothermal/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt geothermal/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt biogas/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt biogas/Oklahoma — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt agrivoltaics/all — HTTPError: HTTP Error 429: Too Many Requests",
+    "gdelt agrivoltaics/all — HTTPError: HTTP Error 429: Too Many Requests"
+   ]
+  }
+ ]
+}
