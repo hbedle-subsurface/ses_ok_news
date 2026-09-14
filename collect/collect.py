@@ -68,7 +68,13 @@ def now_iso():
 # ------------------------------------------------------------ query build
 
 def build_queries(cfg):
-    """One search per subject phrase, repeated per state where asked."""
+    """One search per subject phrase, repeated per state where asked.
+
+    Each topic also gets one search with no angle words attached. The angle
+    clause is what finds a contested project, but it also means a story
+    about a solar farm that happens not to use any of those six words is
+    never seen. The wide search picks those up and the relevance score
+    sorts them out afterward."""
     out = []
     for topic in cfg['topics']:
         angles = topic.get('angles', [])[:6]
@@ -81,11 +87,14 @@ def build_queries(cfg):
                     terms.append('"%s"' % state)
                 if angle_clause:
                     terms.append(angle_clause)
-                out.append({
-                    'topic': topic['id'],
-                    'state': state,
-                    'query': ' '.join(terms)
-                })
+                out.append({'topic': topic['id'], 'state': state,
+                            'query': ' '.join(terms)})
+            if angle_clause and topic.get('wide', True):
+                wide = [topic['subjects'][0]]
+                if state:
+                    wide.append('"%s"' % state)
+                out.append({'topic': topic['id'], 'state': state,
+                            'query': ' '.join(wide)})
     return out
 
 
@@ -239,22 +248,40 @@ def find_counties(text):
     return out
 
 
+US_STATES = [
+    'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
+    'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho',
+    'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine',
+    'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi',
+    'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey',
+    'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio',
+    'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina',
+    'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia',
+    'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+
+
 def states_named(text, states):
     """States mentioned, not counting the ones that are really county names.
 
     Oklahoma has a Delaware County, a Texas County, an Oklahoma County and a
     Washington County, so a bare substring match reads four of its own
-    counties as other states."""
-    out = []
-    for st in states:
-        for m in re.finditer(re.escape(st.lower()), text):
-            tail = text[m.end():m.end() + 9]
-            if re.match(r'\s+(county|parish|borough)\b', tail):
+    counties as other states. Headlines abbreviate, so "Washington Co."
+    counts as a county too.
+
+    Longest name first, and overlapping matches are skipped, or West
+    Virginia would also register as Virginia."""
+    out, taken = [], []
+    for st in sorted(states, key=len, reverse=True):
+        for m in re.finditer(r'\b' + re.escape(st.lower()) + r'\b', text):
+            if any(m.start() < end and start < m.end() for start, end in taken):
                 continue
+            tail = text[m.end():m.end() + 9]
+            if re.match(r'\s+(county|counties|parish|borough|co\.|co\b)', tail):
+                continue
+            taken.append((m.start(), m.end()))
             out.append(st)
             break
-    return out
-
+    return [s for s in states if s in out]
 
 def best_topic(text, cfg, asked):
     """Which topic the headline is actually about.
@@ -296,6 +323,14 @@ def score_article(item, topic, state, cfg, codebook):
     if states:
         score += 1
 
+    # Coverage from other states is kept and flagged rather than dropped.
+    # Oklahoma is competing with West Virginia and Tennessee for the DOE
+    # nuclear campus, so their coverage is context, not noise — but it
+    # should not sit unmarked among Oklahoma's own.
+    home = cfg.get('home_state')
+    away = [x for x in states_named(text, US_STATES) if x != home]
+    elsewhere = bool(home and away and home not in states)
+
     cues = [c['id'] for c in codebook['categories']
             if any(q in text for q in c['cues'])]
 
@@ -304,6 +339,8 @@ def score_article(item, topic, state, cfg, codebook):
         'topic': spec['id'],
         'states': states,
         'counties': counties,
+        'elsewhere': elsewhere,
+        'other_states': away,
         'via_state': state or '',
         'cues': cues,
     }
@@ -334,7 +371,8 @@ def merge(existing, found, today):
             continue
 
         keep['last_seen'] = today
-        for field in ('topics', 'states', 'counties', 'via_states', 'cues', 'sources'):
+        for field in ('topics', 'states', 'counties', 'other_states', 'via_states',
+                      'cues', 'sources'):
             merged = set(keep.get(field, [])) | set(a.get(field, []))
             keep[field] = sorted(merged)
         keep['score'] = max(keep.get('score', 0), a.get('score', 0))
@@ -410,6 +448,8 @@ def main():
                     'sources': [item['source']],
                     'topics': [marks['topic']],
                     'states': marks['states'],
+                    'elsewhere': marks['elsewhere'],
+                    'other_states': marks['other_states'],
                     'counties': marks['counties'],
                     'via_states': [marks['via_state']] if marks['via_state'] else [],
                     'cues': marks['cues'],

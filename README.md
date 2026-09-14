@@ -74,9 +74,24 @@ cannot be recovered later.
 to change what gets collected.
 
 Fourteen topics, each pairing its own subject phrases with the words that appear when a
-project is contested — moratorium, zoning, hearing, setback, landowners, eminent domain.
-Each topic carries its own angle words, because a battery fight is about fire and a
-pipeline fight is about easements.
+project is contested. Each topic carries its own angle words, because a battery fight is
+about fire and a pipeline fight is about easements.
+
+**Each topic also runs one search with no angle words at all.** The angle clause is what
+finds a contested project, but it also means a story about a solar farm that happens not
+to use any of those six words is never seen. The first run without this returned only nine
+solar articles in three months, which is not what Oklahoma produced. The wide search picks
+those up and the relevance score sorts them out afterward.
+
+**Coverage from other states is flagged, not dropped.** A first run returned West Virginia
+and Tennessee competing for the same DOE nuclear campus Oklahoma is bidding for — that is
+context, not noise, but it should not sit unmarked among Oklahoma's own coverage. There is
+a filter in the left rail to hide it, and two columns in the export.
+
+Two details that matter for Oklahoma specifically. A state name directly followed by
+"County" or the abbreviation "Co." is read as a county, because *Washington Co.
+Commissioners Sign Letter Opposing AEP Transmission Line* is Bartlesville, not Seattle.
+And state names are matched longest-first, or West Virginia also registers as Virginia.
 
 Each topic has two vocabularies, which matters:
 

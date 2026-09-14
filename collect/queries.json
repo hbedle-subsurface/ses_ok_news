@@ -26,7 +26,8 @@
    "per_state": true,
    "subjects": [
     "\"solar farm\"",
-    "\"solar project\""
+    "\"solar project\"",
+    "\"solar array\""
    ],
    "recognize": [
     "solar farm",
@@ -37,15 +38,15 @@
     "solar plant"
    ],
    "angles": [
-    "moratorium",
-    "opposition",
+    "county",
+    "landowners",
     "residents",
     "zoning",
     "hearing",
-    "\"county commission\"",
-    "setback",
-    "petition",
-    "landowners"
+    "opposition",
+    "moratorium",
+    "permit",
+    "lease"
    ]
   },
   {
@@ -66,15 +67,14 @@
     "decommission"
    ],
    "angles": [
-    "moratorium",
-    "opposition",
+    "county",
+    "landowners",
     "residents",
     "zoning",
     "hearing",
-    "\"county commission\"",
+    "opposition",
     "setback",
-    "petition",
-    "landowners"
+    "moratorium"
    ]
   },
   {
@@ -158,7 +158,7 @@
    "label": "Nuclear",
    "per_state": true,
    "subjects": [
-    "\"nuclear\" energy",
+    "nuclear",
     "\"small modular reactor\"",
     "\"nuclear innovation campus\""
    ],
@@ -291,7 +291,7 @@
    "label": "Geothermal",
    "per_state": true,
    "subjects": [
-    "geothermal energy",
+    "geothermal",
     "\"enhanced geothermal\""
    ],
    "recognize": [
@@ -306,8 +306,10 @@
     "county",
     "residents",
     "plant",
-    "permit"
-   ]
+    "permit",
+    "well"
+   ],
+   "wide": false
   },
   {
    "id": "biogas",
@@ -382,5 +384,6 @@
  "gdelt_pause_seconds": 6,
  "gdelt_max_records": 250,
  "max_age_days": 30,
- "keep_total": 8000
+ "keep_total": 8000,
+ "home_state": "Oklahoma"
 }
