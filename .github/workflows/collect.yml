@@ -1,0 +1,68 @@
+name: Collect Oklahoma energy news
+
+# Runs by itself every Friday morning, and whenever you press the button.
+# To run it now: Actions tab -> Collect Oklahoma energy news -> Run workflow.
+#
+# Neither GDELT nor Google News needs a key, so there is no secret to set and
+# no quota shared with the YouTube crawlers. Any day would do; Friday keeps
+# it clear of elsa_doc on Mondays and datacenter_news on Thursdays.
+#
+# The weekly run is how the archive gets built. GDELT's index reaches back
+# about three months and Google News about one, so coverage from a month
+# nobody collects cannot be recovered later.
+
+on:
+  schedule:
+    - cron: '41 13 * * 5'
+  workflow_dispatch:
+    inputs:
+      states:
+        description: 'States, comma separated. Blank means Oklahoma.'
+        required: false
+        default: ''
+      days:
+        description: 'How many days back to reach. Blank uses 30.'
+        required: false
+        default: ''
+      topics:
+        description: 'solar, wind, storage, data_center, carbon_capture, nuclear, hydrogen, hydropower, transmission, disposal_seismicity, geothermal, biogas. Blank runs all.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run the crawler
+        run: |
+          python collect/collect.py \
+            ${{ inputs.states && format('--states "{0}"', inputs.states) || '' }} \
+            ${{ inputs.days   && format('--days {0}',     inputs.days)   || '' }} \
+            ${{ inputs.topics && format('--topics "{0}"', inputs.topics) || '' }}
+
+      - name: Save what it found
+        run: |
+          git config user.name  'news collector'
+          git config user.email 'actions@github.com'
+          git add data/articles.json data/runs.json
+          if git diff --staged --quiet; then
+            echo "Nothing new this time."
+          else
+            git commit -m "Collected Oklahoma energy news, $(date -u +%Y-%m-%d)"
+            git push
+          fi
