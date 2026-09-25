@@ -1,7 +1,2724 @@
 {
- "updated": "2026-09-18T17:24:15+00:00",
+ "updated": "2026-09-25T18:18:06+00:00",
  "threshold": 2,
  "articles": [
+  {
+   "id": "17526c602199",
+   "title": "Thunder GM Sam Presti expects OKC to be 'exceptional' team even after major offseason moves",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTNFWnRkY2NObElGdW1zcmF3MTRxU2dhUDlIaHVpdFBqNXRnSHFBWWRKX2Jva3NERDdqM003dzRxcjF5ZEU3UGJ2VXR1NVpoM2FPMEZmVFkyeFZ4NDlHSDRhQTFTUHFIQWk3RXRqTnBMaFI2cXFQSm43Y09MQmdXMWotdDZNaW5heXhYMTFxUktrWWJyaWpuUFlYdXdKUnl2bFdkM1ZURVJZV1pmaXpZNE1wT19ZeE9wV1pnbTJIMUM0eU13QVdjdQ?oc=5",
+   "domain": "wsls.com",
+   "outlet": "WSLS",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "b8e893ad497a",
+   "title": "Stanford Methane Pyrolysis: Cleaner Hydrogen with 10x Efficiency - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2I4VWt0OEhoMlAwTWRQS3JrTVNoY1U4LWh0NXUxMDlqNzFscm9wRWE5X05yc1NpbnAtal9UVElBUVJScDdraG5OYTJCSDVCUjJYdXBHUlFmd0xXMVVVMlVIeEllbzFlLVdmRzBjTklnVXE4dnZicmxQWGNmMjg1LUt4dXdBRnNxYTdxY0tNN3FCczF0dDhVWFRiV0w3c1B6dDNJNUNIZmpYRGhlb1Fn?oc=5",
+   "domain": "indexbox.io",
+   "outlet": "indexbox.io",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "hydrogen"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "f83ce7a1f748",
+   "title": "Senate considers establishing $50B nuclear energy campuses",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEgwZlhNdGlRQXlqbnltUkR3a2Y4TjdkNFB1TU9OZnpPVmJkZmw2V2RSb3hUSzNwSDhzRV9fWXQ1OHh0NVNrNjNWaHd6aGR5MGV0UnhYdXJNS2JNb2VvRGw0emhBdHpfamJ4bEZxcExsMm9FR19IZ0doSjE0ZEkwdDFsN296a1FLUW9lTFRjTklKUC1wY2ZKSmhaQQ?oc=5",
+   "domain": "americanpress.com",
+   "outlet": "American Press",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "8b6e5d15fff7",
+   "title": "Oklahoma power grid project gets $250 million federal investment",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckpPVUhEU0VlZTQyajVxWFluYUdSS3JJMXpLdXVsTWVEY1IzaE5VWmxCZ0pCV1VOd2x5WTN0UGp5eXFHcGdFYmJWOHhHcEVXT3BVSzFNVExnbTBZQ21ZeXFLS2UyU052WGphdWFOaGxNa0plYk5LQzRudVlnOXhKVVdJeU5aVXJoSG4xTzd2VWxvRjBnbDhhbkxjY2lyQ1U?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "grid_strain",
+    "support_energy"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "678a9a1d02f3",
+   "title": "In The Know: Lawmakers call for Rep. Danny Williams to resign over sexual harassment allegations | Doctors, hospitals to see lower Medicaid payments in three dozen states, including Oklahoma | More",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zQUp1ZmdjcUlwQVpGRktCUW9UeGs4ZHZrdjR3VWlXZG5NQkN3S21OS1g5NzB2cWk2LXpsbnJvZ0VDSmxqbkxtSzV4aDBVMTBLRkZlVnNMVQ?oc=5",
+   "domain": "okpolicy.org",
+   "outlet": "Oklahoma Policy Institute",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "51c198602242",
+   "title": "Data center proponents meet public",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0VOaE40aEpfWDE0NndYQUd5ZDVYdk1sRGZORGJubjFOS3p5VVg5QnBYWW9WbGtHQnlfemVtRVVEMnlyd0dmXzRta0tjSXFfc0M4ck1KZDc3MjR3aUk5SmI5alBBdnBWN0hidGI0aGJaTzNuREpOTEVZRjNGYTV1WlMtcGtfS1NwSXZsTy1FYVdzdw?oc=5",
+   "domain": "cnhinews.com",
+   "outlet": "cnhinews.com",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "bb7029f0e47b",
+   "title": "DOE backs project to better unite North American grid through Oklahoma",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1ZwOUc1ODlBUGkxY0RMOFBzR19hbmlCM255NGhKY3BiV25KNG92TnNxRXlMYzNZQWtQUm1GYk9CZ3Q4TFNXN2RFZl9CcHFORjRZN1pGOVVGX1VFQ0c2djV0cDJ5X2czWlpfUk53NVIyekNNTmx5TjVaU253cGpNVmRzWFBDTEFNbjVQM0JKa0syVUw4?oc=5",
+   "domain": "journalrecord.com",
+   "outlet": "The Journal Record",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "support_energy",
+    "grid_strain"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "3548a7e0afc8",
+   "title": "Concern grows for rural community members as development of a data center in Noble County progresses",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbVBpbXdxQzI4SnFkd29RV1V6YUVwSnJsMS1uT3lld0N5Q0dpRmFkYUh4R0kxZjBidmlaLVFWTmFHQVhUNzJqMmZfY3dPNllxeUZGX0FQQjhydjFrM254SFROME1CZDF5QmJQdWZmWHo1YjNHT1pGb0VSSnJpWHRMS1UzQzgxNUhkTUdLbm12NVVkN1piNVdfS1prN0s3Q3FtWUEtUWd3NkVITGZ1S256dDFtZ2plWmxRLTJaSE5WSkxIZ3lDNHlVUXdBejNTRkpINkpWVVRHQzZOdUJyTk91a0N0aHllSFF5dlM4b2EyZzB3VHc2V0xLWWd0NA?oc=5",
+   "domain": "ocolly.com",
+   "outlet": "ocolly.com",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Noble County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt",
+    "rural_character"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "b0d824c66a9c",
+   "title": "Committee Chair Calls For Answers On Washington’s Plans For Long-Term Disposal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWhOM0dsbVFoR053QXdsOVZoajBNWlZ3RjctVS1FZ3RPeGQteHBOZm1BMzNJa1QyLXB1UWVGUzBCbTVqVnJqU0tiMklCSl9PT29NV3l4X1FSb0t1a0JxNmJoNWNvaWU5QjAwcXFXWWlqNjdPUDZ2MWNObW9DWTJjUUlxa3ZHeXc1dVQzcUtqbk5KODBKSEloMF9nVUtSMFdyNGlGLVVORDBBV2haWUxPTjY2bzYzQQ?oc=5",
+   "domain": "nucnet.org",
+   "outlet": "NucNet",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Washington"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "decommissioning"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "4352558bca9b",
+   "title": "AI data center boom fueling a construction worker crunch",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2drczFCRHBhcHVIWFhhclF2cDZFUTEtcGthdHFHTmlqQUNkazBjQmhlbUdoLXJXcGZXTlhqdDhEN0xGbjRCYzdZUmhtNmpPY1hWbnhVcTNxSUg1ZHhhOXlYQmlJMzBYWlhFNWw3ZTgxRmZPVXZId3pRTVJGQmdyMDZsYkNmSjZkSUhZYUN1ZVAtd0o2emhFRTNMRjF0NlhQZFFpemZraUVsSTA?oc=5",
+   "domain": "kjrh.com",
+   "outlet": "2 News Oklahoma KJRH Tulsa",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "7388a45b4b92",
+   "title": "AEP deals with power line opposition in NE Oklahoma",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0xQdXh0Qzl4OHkxVF9xN19hcDBJQzQxUTlUUFl3MFpQcHIxVV9jbzhxOHlwT1oxZUZGZlM5ZWV4OEoxMWpVVHRROTJwT1hwbGdZeXIwS1ZqS0VFLU0yRnJyVEEwSU1rUlpNX0dwaUlaTUl2NWFRX0J3SG5pZThnM0ZrU2xEN090aldNTi1zQQ?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-25",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 4,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "729621b2fde6",
+   "title": "THE FRONTIER: This rural Oklahoma town doesn’t want a data center. It may not be able to stop the project",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWnFkU0hJRV9DRTl0amRWQ2pDX1ZkZEpZbUF4V0VqSEtINWVYS3FTbC1HWlRCQ1ZYSmRoWjg0VWtSeTVCQldsdUwyY0Y3YlF5VW9nTkNRWFpxckZ6QlhScGFKRlpUazdwekxQWmhPY3hLc1pZbm05Vl95UXo5d1VqM2JQNTFGTGJBUlVMNWJjMDE2Z0NJX1hMVUJ4S1dMOUhyQ0ZNMDdBbHFDMlZzc2ZkajZ3MWY4UUQwZjRjV0NBWXlhRkRIMVlDVzRiTWEycTdiQzlyd0wyMkR4dHNuUlJmbXpRN3RNRnJSQWxhZVBkTG91U05kWmNZX2NSaG5BZDFXWHUzdXJzSjE?oc=5",
+   "domain": "tahlequahdailypress.com",
+   "outlet": "Tahlequah Daily Press",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "rural_character",
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "1c1c4aa26a9c",
+   "title": "Surging Data Center Power Demand Challenges Rural Electric Co-ops",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3lERFpSWDluNFVEb3NfM0dHS01kOXZwOVpzOHNsMzFOLUNhTWpheGhiZFRZeElkUUhyRnhQdldQWmZRbllhQVZObW1yYjBvU2Y5aUgtM24zOW5nMFViVFRucS1IVnM1dDR6amFiVEFfdzd2R2pYVGIxZ3JGWDhZS3p5S3BIaEk1bWVZb0E1NGU4eVRzcEo2UXd6bXlwa1VJLThNZW9TUU5HWkdMTVM4UElR?oc=5",
+   "domain": "oklahomafarmreport.com",
+   "outlet": "Oklahoma Farm Report",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "rural_character",
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "6a88d14751e3",
+   "title": "Senate committee reviews NLIC program, nuclear waste policy -- ANS / Nuclear Newswire",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHZCanJpUlFoejZFSUFhUy1ZYllYbGxERjFYU0ZBVU8yZjNGaWVFRVdmQUw0OW5lbXdXdjVmZWVqelpxRkJtY29raGZwOXR5MHlMUDhmREU4cUFORDRfS1lBZjY0Z185RUpicVItOXMzT3BxSWNIR3pDUkFjRUdSSWkzb3BrTkQzSHZJTml2TjJGclZTUTMxR2RTTEo1Zw?oc=5",
+   "domain": "ans.org",
+   "outlet": "American Nuclear Society -- ANS",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "radioactive_waste"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "4f8734f1fed1",
+   "title": "Question remains–how to protect ratepayers and still create an AI future",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcF93Z0xjamZ1Y3JfVGVqeTk5UldzQjdIdExBSnltNFQzVG14UlFzd3pnOTlPZUlKZU9XUkhQdEc4Zy1XZXI4VmYzRVB5cnM5aTBHNVNjSFQ2dDlrVDRjRUZxRkdzZlJxVTBzOXo1UDFSVnR5bTNLc3lMS1JKZnhEWWhIY0s2RUdqTVZ4M25udl8zVHZPN2NJWF94NDN4ZjcycndsVFQ1bDYyMU0?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "electricity_rates"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "16b07aa2ad83",
+   "title": "Pilots and Demonstrations: Next-Generation Field Tests and Drilling for New Resources",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0xwNU5DRTVLLVZ4bHU0TEdtYkxSTzhacGk1QzV4YlIyMFZ3RVdkbVVndEVGajUyeDNZMnJYVldEc0RxTGw3WWpBcWdEMWJWN0duUEtucWp0cTgwbldBMEJ2YkI1ZXI4UjR4bFE3YjM2dURZcHc2dkRyeEdNTjdtYV8yRTMxOVlpTVlqMG02Y3YzMnlhbWJWa084NUdTWjlFTG1zQXdRTFlCRWVVNThDbXY1UE9vbW54X1NN?oc=5",
+   "domain": "energy.gov",
+   "outlet": "energy.gov",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "geothermal"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "5e94c76c56f2",
+   "title": "Oklahoma to get millions in federal funding for planned electricity transmission project",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWUtVmdNblVQSXhZVlVnQ1RzV3UwaXVfblNZdTZGMmVEV3Nja0tXWGxzT0hZbUdOb3M2cjl5ZmdaNWtxMjVZZzRwZE1Rck9DaERtVnRwc1pkQ1AzM3hlVkpQT3MxTGNwR2l5NXdUcE5LaWNuS21IeVREX2V2QXNkaUJ2NHN2M1ZCUjUyUTZLRWxvb2Ruek9SMnhJcWhtek5rV2lXNTlubUZPMUEwTnF6dFFNOHUxaTdxQkd1OGVjVzRPZEtlSmxIdTBVaFdUQkk?oc=5",
+   "domain": "kgou.org",
+   "outlet": "KGOU",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "e79ac8d1d928",
+   "title": "Oklahoma energy secretary steps down, deputy to take over",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1FVakZBNGNrbTdVNXZaZWhMczc4WVl0Z2JIblhwWWdtVkFEMzN1R2habXJuVVJ6MlRlUnNDcW1kdUdKOFNjaDV0NXRxa0RiS1ZTWnBja0lYODYtRjZ2cDJLaW5zU3pGV25vTjlHMVpqWTFZSEIxS3dmY3ZfMjFrXzZwUlpUbE1ieFJUcG5wTTIxYnVSSS15dDZB?oc=5",
+   "domain": "oklahomavoice.com",
+   "outlet": "Oklahoma Voice",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "9fe8acabc2eb",
+   "title": "Oklahoma Secretary of Energy and Environment, Jeff Starling, resigns",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemtWeHNqLURramJ1ZXo3eGNnSjRmMkhsbUZtcjBLOUZESEdrOVBFLVp3UkRDLV9BV09NOXM0S1VIdWVzOUZfVWlHNWdCTjFfS2RVYU9JRldQeXhHbmhaRm8weFZJRkNrRDZRY0xmcmR1bE5LTWFQWXdCMkhkcEoyU0RsTGlxV1FrLVJ2RjA1bDVLUQ?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-09-24",
+   "sources": [
+    "gdelt",
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "df8479194325",
+   "title": "Oklahoma Energy Secretary to leave office",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE9OeFJra1ZWRWg4ZmhReXB5el80SlZjdHpDbmp4ZE1WUWYxYW4xV2hTNDRfR3VkSUgteVFnQ1k5LU1nM3BSYkh0bzZnci1HWDR3ZU5JQVQxcS1EOUhrNWwzeDZEazI3Q193eVJRU1p4ZWJVNDdnTFFOTUJyc0pJalhn?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "636b7e710dcd",
+   "title": "ONS will hold an unprecedented bidding process for transmission network capacity.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDF4T1lnX3VmQ3RDREE2Qjkxb2dGOXdRdEV4X1hiMGhTMVEwUUx1ZWhESzlvR2U5a1h3dkpqQko5UDVxdUxzVS1qZEJCY2lxQkxBZ2NteXF4elZ1d3QyNTVEdTcwUElYT1Vwa2pXbnl5VVVKYnpoRXlCcTluaDRSMQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "grid_strain"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "514a7a3314a8",
+   "title": "Nuclear news conference",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUTV0LWdnM0tvQWN2V0MxQVZrVnRPTXoxM3lPQ2xIZHNHUW5vcmxuYkswNXQxQ1g3WncwU1dnWXpXZVlJRF8zY3NxU0lGeFJDNTlWczVsSUlwSFpNVjNIRFJyTTFEdnQ3M0haS3ZSSFdyYVBxUC02aWlWMHNlTzhnYU8yOWJZNWpvT1hqSWFhaUxjcHZ4TDlCUDZwREhLRExaeE5N?oc=5",
+   "domain": "wvgazettemail.com",
+   "outlet": "Charleston Gazette-Mail",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "e7cc8a65f163",
+   "title": "NRC to review Radiant R-50 Part 70 license application",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG1KYzFMdXI1UzhQeGhObjZ6MTlPTDFoQ0E4bjNrczBPMThkMlFMSHVGWWRISnVjUjFScmNEcnlTdWpsTi1lSWU4YUl0Wi1mcTJEVmRkU3ZoTS1TcXpFaFlaX19IOVlMNy1TeDlGaWhNYTgxYmE0bWZhZlBOajlZdW9LRWYzN201ZVpFV3RDS3AxMzE1a3Nz?oc=5",
+   "domain": "ans.org",
+   "outlet": "American Nuclear Society -- ANS",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "e741b391d714",
+   "title": "Louisiana’s next big industrial play could be nuclear",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG9UNHZ5R18wMi1UOUlwWXVnM1ZuSUY5WkpiNEJiSHd6ZEdDX0lCdXM1XzJ3XzRsbDlwZ1pNdUdLdWl3WmF1cFFLVjlQUlJDTVg5MEhidnBfMkZ4VDBjamd6T2loaWhxaWF6RkdWNWlGZXBZaTJ2NUoyRVJIQ2ZCRG8wVEcwYnJrRGc0cWYwUHhIZHFsM1HSAZ4BQVVfeXFMTWtkbkxMRmpEVkltM3dnMWRnekFmRmJjNU1rdjhkR2hqSVpkajdUUk80LVJHSl9SWVBXR3FuSDVIbFlkWWRaYkV1NnZub0lhcko2dGVvekZoUTdEV25uX0htRnlDaHppazNMQXNJb0NiclZETFNWU3N6V1ZBaDdVM3BTODgxTi1wVWJKT2NJczJiWW1xSml5TUFhcUJSZ3c?oc=5",
+   "domain": "businessreport.com",
+   "outlet": "Baton Rouge Business Report",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Louisiana"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "drainage_erosion",
+    "rural_character"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "958d580cb6fd",
+   "title": "London residents are turning their food scraps into sauna fuel; the world's first community-powered sauna",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNSllNdFFwWkpfWVlZcW9EakJfLUJ4Mkg3MlNLUktTVFlfTUZGZXhGbmRfa0dWeG9sWmlmSE1DVkFKU2tyVWF2NmlKcWlLczhPMUlSc2Fpb0RLYkM0Y1lZVWdjY25tYVFXREo1Nm9yUWFwM191a3k5c2dfQUZJdjRkLW5SX1I4YkJDUThOdEpkRVRsZDd6NnlLU0xfbHZpNFpMelgxZGlHa0NMTmFVd1dUbS13elpkdDVKNTJCTW5RbVZEaWs1YmtmVDBDZmFLcmdSb3hCeDBaeldaNGtaU1J0S21IcnRTOWxkSmF3RUtPVmh4RTNqUG1lRUJ1WDA1MWMwaVB2Ym5hQVM0V2dwenJuOEtFNzNUQ0dMMW1sN1p2WnpmbUlGRXBYMnFOVHZLb1lOeXZMU2dYTTLSAb4CQVVfeXFMT2FRenRKckFaaHdrRDJ4Vlh3dzl5MXoyWnNVbXRqdDZ2YlhtZFNOZTZLTGVUSDhBWHNadHJLZUNIOEtPMVhuSkg1MXd1NmktYmFVTjZ6OVUyckhFVFkzWTA5bDAyR3EtQmNmajFvS0EtbzY5bXVyXzhGZXNLbUNrZWRiTWdUNzd0Y3JSdk9KeWlEYTdrb0Jsa2pxY3BxYzBSMjRRSDMzeUNwVXFSWVhyY2NjeGp1RGNVT281REM4REVmbGZnTEFaSHpBXzFPQ1BlaUsxVjhYc2dvbk9SVklLYTJ3TjBCcWR1cFo2cWloVHZuQkRFNkwySnNpYWRlRnNHeENWcWhNaVBMb0NVZnAxdzdENEtiTnBEbG1LY0RIRVBSNl9lb2wzajFUQ3dOWU1fSC03TGI4V2ZkT2xkWDlR?oc=5",
+   "domain": "timesofindia.indiatimes.com",
+   "outlet": "The Times of India",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "biogas"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "f73ce2a1da83",
+   "title": "Lawmakers Renew Push to Update Nuclear Spent Fuel Management Policy",
+   "url": "https://www.enr.com/articles/63706-lawmakers-renew-push-to-update-nuclear-spent-fuel-management-policy",
+   "domain": "enr.com",
+   "outlet": "enr.com",
+   "published": "2026-09-24",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "radioactive_waste"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "83099cc7d7c7",
+   "title": "Kairos and Samsung C&T partner up on Hermes 2",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjgxcnVFUDhWNHFRdVFrZUlOa0JkbURFWWM1QlQ2VEF2RThub3BnWjBoS1d3S0VpYU1lUWtRN1UwejFFQy1KYnNxNmFYQVVaZG9EZVNCT1E1bWtlazRaYzZBTDFSekV2MXN5dUg1djRQUTNkbWEtZlNKV2lXdTE0ejRtZUdoU3p0d2Y4?oc=5",
+   "domain": "ans.org",
+   "outlet": "American Nuclear Society -- ANS",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "698baa2a266f",
+   "title": "Jeff Starling resigns as Oklahoma Secretary of Energy and Environment",
+   "url": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-energy-secretary-resigns-jeff-starling",
+   "domain": "newson6.com",
+   "outlet": "newson6.com",
+   "published": "2026-09-24",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "3843c5159a9c",
+   "title": "How to Position Before the Oil Cushion Hits Empty",
+   "url": "https://investorplace.com/smartmoney/2026/09/how-to-position-before-the-oil-cushion-hits-empty/",
+   "domain": "investorplace.com",
+   "outlet": "investorplace.com",
+   "published": "2026-09-24",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "0253e3a24e2c",
+   "title": "GAIN makes diverse selections for its third round of awards this year",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnFXTHRKMTFWZS1kYXZPMEswU19WWVVGZ0xRdWJVLVlJUUdVZU1jYkR6elV0Vi1wT3hLTUExVnFZcmVjVjNVVDRHcVRKU3d6ZGZsR1ZtY3p1N2xja3ZpNTZvb0Q5N2VGNHJ6TUFJbE1LQXQwMEZQdlRBV0NxZ0pfSEhSVUpRWmp1aXN6bE1WbHFtM0Z6cEJxVjRjQ2V6THAwSkJ0YVlRWG8tamdB?oc=5",
+   "domain": "ans.org",
+   "outlet": "American Nuclear Society -- ANS",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "4b497a70a825",
+   "title": "Former Interior Secretary wants moratorium on NM uranium mining",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWdsbm9qTkMwaV9CTlJOQ3BWakRacUxOWmI0eGNmRjJITlBnMDJwY2ZHMlZKd2F6NmpTbzlFdEswNkNRMW8zcVdrMXVUMHpzR0F2VU1YTnVXcWtnSWl4X1I3Z3VwbVg4NFc3Rndac2d6U2drMk1iV0lYd0t3QUJkeDh5U1ppc3hqYkdpR0lUVHAxTFlDdjF3N1lfa2d5QzA?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "2e50777cff7c",
+   "title": "Fisher Electric Expands Solar Panel and Battery Installation Services in Felton, CA as Fall PSPS Season Opens",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3hRM0N1SXplTVVTekVkZTcxUVBHeUFvU1cwNVBzc0NURlR6U25iYlVJblpnOTllU1NiSFJOX1FtNVh5MGNFczNZcFFkSHo4YkJxdjNfbzRSbThJNzVqUU8xMnRmLW5UN0MxV0IzOVJTcWdYUXZGMC0zMzRxQ2RFNGpYWWNuNGJQTnZDQzlQR2ZxRTVwTE5CTmxaNWlaNzNtaWpuSTA5azBCZXptalE?oc=5",
+   "domain": "digitaljournal.com",
+   "outlet": "Digital Journal",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "d8f649237050",
+   "title": "Energy briefs–energy fall out from the unresolved war with Iran",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2NUOG9VRkUxN2RtRVdfY0xoXzFpTGRLUlJvOG5aWk1FNUdVXzdoUmZ4V2tPdVNzMEJzNGQtbldZR3k3ZTF5Z0l1YUNKQ2RyakE1M2dub2gwazc2SVo3bFhBWW9JdnJMTHNhSHlzSWZsRzBJdllxTktob3ZkQ2pPaHVDMTJ3bEw3eEN0Z0NMQlpGN1NneVpsdHNEMG1WZTA?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "carbon_capture"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "1b862f364b37",
+   "title": "Ellwood Thompson parent pursues second Oklahoma data center",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnF2ZzlEQnlCWC1tdHZPakJ5YTlNS0t5YlRpaFNQWm96OVZuNUJETjdwQUp3TkJzX2hwYnlvSV92dWFxNEtob3JZcV9nclFSSVRXUTRidEJ6RG9QTkdvZjRxYVJRUWJBUW05dFdSUEp4WFQxd3lROGQtSWhYQW9Kd1piRlZHSjJZVjIwMzRRWjQyODlMOTFGMXFqVlpWZ0ZDS2NSaQ?oc=5",
+   "domain": "richmond.com",
+   "outlet": "Richmond Times-Dispatch",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "aee29110c05f",
+   "title": "EU proposes classification to measure data center efficiency.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNE9lV0Vpd0txY25EeVRHaHppdkxfS01IS1VjNE5EYU9ObkdvN1pCNzhRWU1ZOEltQmlTS3QwZVNlOWpYLTA5eHBQRHVaTEhfUGtZQXkwbXJjTFZuLUl3NW9RbS1EU183TWoxQ1F1cFFkTFpFWGZkeGRBZE4tbXdqbnV3aw?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "a78c0dfc29e1",
+   "title": "DAH Solar launches solution to add batteries to existing photovoltaic systems.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmRaNUhva0dUVW5OVmtkemxjcEx1VDBFSGFLRjAwQ00xOVRzb0xrQUxaTGFrM1djOGJuX0hiUy1Vc0daSjR4Ylg0RTVycURXLVNHVVJDdFJEcW5BdVlGLUZLNmI4blhfekU5RzlIMkFncEdmb3lsV2N6d05CaWlDZkdyaDVoYUM5b21IRjJoSjZrMGIwNldn?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "ca3c866f7517",
+   "title": "Could your power bill go down? Feds target aging grid to cut costs for 100M Americans",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGRqbHRMOTdlTWFVNVp4ZFBneDFST3NEN3FSUWN2QjdraUJQa1NYbDlBd21la0xxREtiTk5GNTFYQTAyTHZzQUVFa1hiSnlVWEdGVXR0VWJ2MFE2YUtwVkRDaWk5UFltbDZ5N0hJNFpwU2pVbWE3QnowenU3Y0daRk1EN3FLUUNUQ3A1OU56RFd1OFZPX2tkT2VTLVhFZXI1UEdLS2ZqaGxRS1MxMkJUVjRR0gHGAUFVX3lxTFBod2JIV0VqYXJWSG5mU0laT2ZBaE1JZVQ0TXMwM2FmQzFjUjhsYkxnSWl2UGlmdjFvTFV1ODhmLUhhUy1DY1A3RHdzaUhINTI5ZFZZNkttUGVQUmJrR2RBV3ZzZEp6c0FxTkJzZV9GeVhHV1BQZW94UF8xZ3RNaGtvUVZ4UF94RUM5WGF5NDlnZkNGUDVyaGlRQnZ3eXFEWXRUWHpaU25xT01HOVlhQ3BYSHF6S19mNjVFWFFOWGtlaVhIcFF2dw?oc=5",
+   "domain": "wwnytv.com",
+   "outlet": "WWNY",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "support_energy",
+    "grid_strain"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "715e96a9a4d9",
+   "title": "Construction begins on memorial to submarine named for Oklahoma City",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1ZkZlVhODhuQkhMbnViRDRYekFiM1M3cjRNbVNKd0FONjFMdmM0bzctMFQ4THJNd25iVHBBb1NvUDJSWTJLWjBHUkQyVGE2WTZuNTJ1UG5HZmE5NUNxdXdQYUE2WTN1OU1XTV9NNnNQamxRV3pweGNqTUN6aDY1amcwXzdqOWN3YVJaMEZfUTFQd1lnRnVwTTBmeDR6UENheDJXQ0YzRHIwYUtuX0hmc3ZJLWRjenRQSjBzcC1VdTM?oc=5",
+   "domain": "oklahoman.com",
+   "outlet": "The Oklahoman",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "f0df9fa7cdcc",
+   "title": "An Alabama man fought a power company over a 74-mile transmission line planned across his 416-acre retire",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPNC1SdHFwSEVlOVdmSFgteXY5OFNOTXhWdEZKY0M3dFFJZnBwTXo0YmVXcEMzSWI5QVBMUzVkWjh0OFg3VVRhWlduWi1iTlEtS2hJcHFlNlpXcndEajl5VExkUkVZRzNHTWV2NFpqYXhXNmdDRTVsbDQ3VDJKZW5SY3ltQUE3S19iS3lNdndWRXlCYmJxdEtyMkxPSzN6M1JaaVNiTHZ6ZkxUMTZqaUFpdFNpYmdVZThLSmVvNkFIRHE3OUFPQlBLUVZyTmdJUnQzTEdiRjBzZ2N0czJKemRXdzgwUTBuMDVRYmpLMkI3dFJQeWVmR1ltaS13M0ttTlZWQmpvREI3MDY4QW55RFBVNWhvNlZGb28yUGtNOFNOQURjYlc2bDc0UGk1UUhWUDNKQ0p5NDNWMVhEY1pMR3RxdDBOTmhqVDdFVkpEd21leC10SXdsR0xYN3JJeHAzRTQySTdaRUx5QXZSemJNcGJ0ODdaWlhmS1dPQ2pIcWdacUQ1d1VyZ0HSAYsDQVVfeXFMTlNfWUg2Mk9UTXBKaVhZX1FtalVSaUFDS3IxY2w5M3k3TkZsUnN3OE5iYVlyQkJZd3psbFlVako4YmNCSUpfSWFtd1RZT3EwWGktMXFFYWhhWEZ5RHlGQ0xVQzAxcGRjWklyT0RPUWVPaGhtUjNFaHVyZ0QyVnVkLTc3NU5JRDM2ME1yaXVqbXQ2VjU3TDB2Y2NtWmZwR29XY1cyWG83ZkNYSVJtaUF6a2cxOGpDZ3VOVXlWbndNZGZXTHpLZG5kblBfLTFuQ1VCX0lkN2xGRjFEdFd6a2JJbDlBc3ZhM0M5WWo0VExCaXF5V3dUSUsxNW04TXE4cDZnUTRGZTNIeUp1dGczbG0xRXBpdG5XLWcxeGtGWmpRT3RNbWtWamFoQXg5VDFHWTcyVk0xclExVlpmVWZxY3JDc0NfZU1ZUTZaNVNUdjBwVVJWUTdjRzJMcmdFTW1VR1FnWHN3LWltbks0YkVvaEdSbHU3UjVzbkpzOVVEYUtlV05qZ3JQd2FnMWNjb28?oc=5",
+   "domain": "timesofindia.indiatimes.com",
+   "outlet": "The Times of India",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Alabama"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "ccecdd9c6fb4",
+   "title": "Amber abandons annexation of proposed data center land",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvZTV1MmxIVW9FQUxPd3lfNVoxd0E0cjNYQTVtT1pBZjRrZ1FnYURYX3YwcDZHeTdDSlB4a3QzaEdZeWxXYV9hMnM1ZlM5RTNtdG9US0dtTGtHX2pwSnphMW9XVVdVS2tETFQtSjdvUzcxUQ?oc=5",
+   "domain": "kosu.org",
+   "outlet": "KOSU",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "eb34f001a091",
+   "title": "ANEEL approves transmission auction with R$ 8,8 billion in investments.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUjFMRmduWGZYN0RRdGtNb3gyVVZPQjI1bkh0aWh1UzUxNHRMcmNlUjdNTHdGbWpxc2F6SHdmdDhPVmc1aE9QWkVacDBoTUQtdWlrR0ZJaUNKTm5WYmpDaEZJQ0V4eW5DcnFsQkZWb2pJUXRhdVptNzVYYWc3Q2lrbmEzQmFXVU5YVWdMdGUzaFdfVXpUYkRhVngtLWEwcHRYWGJLVGRqOTJRdlBUYU96ajc0Z05ZN1pnenVEUlViVUpkbDAxMzZZOGJsTFBLVDA3VjRz?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "7915b0247d13",
+   "title": "A German steel plant is expected to make about 2.5 million metric tons of iron yearly; Jacobs extends its role.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0V2akNNUUFDU25XOU1EX3ZaY01ZSWlCYk9XTnpsM3hILUFpNERpMXdxTnF0RWxKWjdUXzd1TkxDRnREN25HQXlUc1ozaFRMNWVsc2VmanUwcXkwR0RYclJNZmVSakswUG4zclA3Nkp3WUs3LVlfYjVRZ3l0aDJsbkNhTno0dm94QngwQlFSVXFoZ1F0bUI4aDJYSkdPcEhHUWdQdFVBTmNDeFBFamZxOUlvN3VzUQ?oc=5",
+   "domain": "stocktitan.net",
+   "outlet": "Stock Titan",
+   "published": "2026-09-24",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "hydrogen"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "edd47b5060e6",
+   "title": "newsroomamerica . com",
+   "url": "https://newsroomamerica.com/?before=109772",
+   "domain": "newsroomamerica.com",
+   "outlet": "newsroomamerica.com",
+   "published": "2026-09-23",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "1e3a941fa162",
+   "title": "Tongwei's series of modules achieves a power output of 770 W and an efficiency of 24,8%.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01RVRuX2tVZnFhVXV0QmRhYUFlY1NUTTZENEhxTEVnbV9nQ2FhTHhHQ3liZXJkVjBGZlRGOXZjRDhkSmJSV3h4OXJKWFllUThJWHlfZlpUallBY3owS1J3R3dfRFU3dlB0RFhjT09ubFRlLUU?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "61fdddd479bd",
+   "title": "This rural Oklahoma town doesn’t want a data center. It may not be able to stop the project",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHpULTdsVVduMllST19hX25GdWZqcl9pUDdqSUlRZDJSc3dRYnNzajVfaXJrbUFQdktSZHRGY01ra0d0RVZEZHdlX1ZYbkw3QU9Vdk9pODJPNU1PdmVVdkp1SUQyaldvaW55WDhLZ01na3oyQnh5QV9RVnJiUjZnVTEyMkVONjBRMnc3Vk9raHJUMU1YTDdOVk5FcHl6Z09vcUJSczZoVnUwOERCZjVTcmxBaW1GVzRlazJGZ0F1LUJxVTFMX2c?oc=5",
+   "domain": "readfrontier.org",
+   "outlet": "The Frontier",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt",
+    "rural_character"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "88158d2bec1e",
+   "title": "Oklahoma legislators ask if power grid can keep up with energy demand",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNQeTVPcVdxc3NiRHF3cW10aWFYMmJYalE4WEpKYUFyN2t2MmRNeUpFMTFiTkNyZktXWHRlc1h0R0dzMTBXcnB6MmcydVVSWVFicEJCWGk1V2JPMThVX1F3M21ZNXFvelJvZ0JQX25hb0xRSXh1UDM1RnlLR1FLRTZLOGlRaUdzTXNucHBSR2lXTnpNUmhSQi04WDdVcS16OF9vYmpsSEFVZ9IBqgFBVV95cUxONDNQeTVPcVdxc3NiRHF3cW10aWFYMmJYalE4WEpKYUFyN2t2MmRNeUpFMTFiTkNyZktXWHRlc1h0R0dzMTBXcnB6MmcydVVSWVFicEJCWGk1V2JPMThVX1F3M21ZNXFvelJvZ0JQX25hb0xRSXh1UDM1RnlLR1FLRTZLOGlRaUdzTXNucHBSR2lXTnpNUmhSQi04WDdVcS16OF9vYmpsSEFVZw?oc=5",
+   "domain": "kfor.com",
+   "outlet": "KFOR",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "grid_strain",
+    "support_energy"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "37e4a38b9856",
+   "title": "ONS proposes test to put distributors in the role of DSO.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNW95c3ZLZGp4cFZLR252LXJ2dzEyWGdqa0JRd3ZTdUJYUmNCbkppbnVWbHZvSElPSjBiSF9qbTNwWlZRcmszU21BT2plQVFlenB1bEJVeTl3RGRkVnJNZEV5djVycHVUdl9CcTFPWFlCcThaVThkNGJoaXZSZw?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "d8c55481a72a",
+   "title": "Mergers and acquisitions in the energy sector fell 30,3% in the first half of the year.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDM3azJkYU5IekRlQnZmaGlVdUQ4TE1yZHB1VkZKdDdhYnY5LWtxUk0yMi01OHI5aWp5U3R5Nm5ZaTFZT2k1RkxobzBldDV3M29KM1ZfQkZCdlhQQWNuMlVlVm9yak11Z1ZMZXpoUl9JYlkzNVo1ek5YVmRMNUh1Si1ZQUgtUm5obVpjZ2pZZ2NGZGJ6eGVZNDVXY1RnX05nWHY5NA?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "a0ce10640927",
+   "title": "MME proposes new rules for renewing hydroelectric plant concessions.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjVmTHVSRUE0OFQzeGhHU2ZnOUJNdXo5QkRCNE13bjNQdkNxLTcyWXNIQU9yNXNtR0pFYUExblZBNDVIUmJnMEhWcGtwN21zSVFJb25sZXRyTmFTNHpUUWNJQkZfTExhN3lUdmljQzRWNmF6RGdpdDFZVXh5LUNBZjU5dzZIZVZSbVNRcQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "hydropower"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "c615c60c6cc9",
+   "title": "Italy’s parliament paves the way for a return to nuclear energy",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXNHbWg2emVGTmxiODRFT1NZZDRKbWYwdlZQS2J6UGUxa1ZTVjhJZjYzamwzcjNSTHZBMWt3LU9MTHpPc1hidnpueVBBeUJVU3VJelloZWN6RU1SdDBITDM3eGdGQjR4TVRIZm5QZDhvNzJRR3B0N2NyNGZ0ZVRUN2RFVTZNbWdQb2tzdl9tWWRMOG00WUphdVhIRDZvNDVkQnR3NFhEN0pyalRZ0gGsAUFVX3lxTE1Nc0dtaDZ6ZUZObGI4NEVPU1lkNEptZjB2VlBLYnpQZTFrVlNWOElmNjNqbDNyM1JMdkExa3ctT0xMek9zWGJ2em55UEF5QlVTdUl6WWhlY3pFTVJ0MEhMMzd4Z0ZCNHhNVEhmblBkOG83MlFHcHQ3Y3I0ZnRlVFQ3ZEVVNk1tZ1Bva3N2X21ZZEw4bTRZSmF1WEhENm80NWRCdHc0WEQ3SnJqVFk?oc=5",
+   "domain": "kfor.com",
+   "outlet": "KFOR",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "3c928d27599c",
+   "title": "Integrators are expanding sales, and 53% already offer O&M services, according to Greener.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlcydUd2NDVUQXh3RzYzU0RrWUN3andieGdNWnNlcjl0NnZwZUhrTlNXazRIUndMYlRuenA3a1lTdWFod3BHcXJhM2s4TGNFM1VjR3NiRmdqdHZwNHRQeHBrTEp5bTNKeHJXSDF6QVZjM2NsQ3FocU9pcHktUkVheA?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "6eeef29f315e",
+   "title": "DOE nuclear ‘innovation campuses’ could bring waste industry opportunities",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0tSZGg3dE5SLVlrX3BIOU9IU1o1aW9La2xycFhON3JhTWFVbV9MVUFBWUk4aGl3NjB6T3FBMkNLWVBnZVpvakdIV1lsRUthZ2pCeExvMnVFTGp1SUoya1VCdUlySGVGU0ZPM1BaWHR2emhuVlp4UVdKZjI4dUxyeFVpSHFtSXZneGdnUE50Q1FnZw?oc=5",
+   "domain": "wastedive.com",
+   "outlet": "Waste Dive",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "drainage_erosion"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "64f3d3c8529c",
+   "title": "Consulting firm projects average PLD of R$ 170/MWh in spring.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MC0tOHhRRF91bUR1OGFqZ2NyQWs1ZWtRVGJzekxpWk5vUl9PVDZaUHpSeUUzNzBCdGFEWjRBNjdZd3RoSWJBTkhFZTJjMHpGZUY3YlJMNHgtWG8xeFZFNUpnS3pQRDBmcHFxYXJBY0N4U3RGUFpYb0puSQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "5c4cbf4fcb46",
+   "title": "Cheapest gas stations in Oklahoma",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUtKajFwbFc3bXZpRHl4U2JCMjhIaVlTYXhwUjJ3OEpHM3dmNFVLQ2xLd3RNal9JeXhhWl9Lb2NMdTJoRzVqN1JLcEFSTWJFMXpRb2tMNWF2MlR5OXduOWhTMWlONXl6REE4TWU4dFlKOGR1Z25uR3pYNEw0Tm93cUNmS0U4WDh3OVVOeFFlQnlzbldtcTZ0Q0N4SDZqUmUwUkZkWTBLSGJpbkxCMnNJLUY2am1ISVlp?oc=5",
+   "domain": "enidnews.com",
+   "outlet": "Enidnews.com",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "carbon_capture"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "9b31ffa313ac",
+   "title": "Boswell residents voice concerns over proposed data center, gas plant at town hall",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTVsN2FkekJ3ZHQ4eXJnZmIyQkpoSzRENVVXN1hvdnR1YW9JdWEybUN2ZWNnVmppeWoxNGF2Q2RiaUxvalhLT2J2TjRIclNkNDEtRDVmcmFXRUxvZWJZcC1XX242bWkyVnVVLUIwc0hKb2I0cVh5eTNkSzBIYlVhV2hLbUEyMHpkdzhzWkU1R2k1bGpQVHZjZllZR0EtdUhaY3phLVpfVnBaeXFGV1ZkeNIBxAFBVV95cUxPMWNJMlVISDAzLUtubHpXWmtRYTFKczRqQmgzVmlBUVY2MmtQdG1ZRWxVcHppa3ZYX0g3Q3JaOWs5enZ6d1hfOUNOWHdSRl9fbWZRT045cThFLXdXMHJBZDhmT096cUJVbFJURFhXQXN4aU9kaU9VemhnaTFOdERMMkQ1ZXZTQWpFYXE0RnU3aEtlLUFsWU93SktaZmY4dWREeEJIWC1OcHdXQWd3QUZYNEh1UGxNT2kybjNxU0VFMWl4aGZU?oc=5",
+   "domain": "kxii.com",
+   "outlet": "KXII",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "40e85708eb10",
+   "title": "Batteries: the auction is the first step, the market needs to come later.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBINFh3X1BIQVQ4UnRiTlNIdEcySkZ0VGJ4X3RzcExNWndObWJBZHVJeWluaVA3ODAxWUlWNHRjTHZrUFRodGFTX1lmOHNWV0ZSZnRXTUJ6aU5WM3FUVGliMzNzNEZqNk9MX29wLXB3YW1BQVpWZHp2Zk5R?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "9add37f2bd09",
+   "title": "Amber terminates attempt to annex land surrounding proposed data center",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW55SWZDYl9XeTBGQjF5NFpVaXUxTlRkRmUxSEpyR2FYemJCZTJIT05XU2JLN2ROSXpuaFo4UDZOTEMyWENqU1BKV2ZiZXZaSE4tWGNnQWU5WVBQQ2JMUkVWNlpkcUVtOUZtRE93a1N0U2djR0owelEwYVU0SjZYaldDQnhpS0pyaXBybjJpZ3pzZw?oc=5",
+   "domain": "cnhinews.com",
+   "outlet": "cnhinews.com",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "131adc344122",
+   "title": "ANEEL approves new rules for the costs of thermal power plants.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMENmcTlTV2dzdHljRkl6cWVsSXZ4TXNhWHEzY3NPX01mRHBXaE1FdzNxaXpfS01Ra093eDluWXlheHdUY1VlU0ZkQWFyMlVDbTRuU2N1QV9lZkhmSnRTd2hvRHBFUzhXbFRHamp3Z2lVYWg5TkVwRVhlUmVDLXlhNzRQcVlhd2VHUEVNOE0wUjd3VTJlckNV?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "ecc56fd55d0d",
+   "title": "$4.1 Million USS Oklahoma City memorial breaks ground in OKC",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnhyTkFjczc4M3lqY2wwYWNraHo0dXR0ZVd0LTRRWHlCR1puRlZObTJTQmJLY3R1X0JjRS1tUmZYblFldzFSR2FJeVlUU1BpbllSdlJwRjZFWmplWWRlbFhHYVdZQTExOVpfT3RTMHlFSVJ0N3NqU3NkcUVHR2hNQ2M0b1BNUjYxMF93ZEV3NUxzUkhyZmt6U1FVaTVoc01peGtGWk5n?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-09-23",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "3adc073ef936",
+   "title": "Who pays the price for the solar price war?",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVX2U1eVozQ193a1JhczRPamR2Q1BNM3BmOU5ibjA0dEZRWDJ3dmFDWDZSeU1ZODNVd2lLZTJJTHg3Yi1XbWVfUDltQmtGTF9leGh3bjRTcFg4NkVnc0dtQ1QtanB1LVJhYTViN0otcUo0YnkxVVE?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "094f26a33a6e",
+   "title": "Trump-backed smelter exposes land use revolt shaping Oklahoma politics",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa0M5WWNqZ1FjX2gtY3c5UmdyTVU5ZXd4dGY4LWhHenNrZGowR0lrbkdkVVpqSC1sc21ELS0zalQ3aHBPSFVPNGZnUEFid1lzNzRpLWwxc3RtMW5hbW5ma3ZPbTkxel9hRGk2ZzFYODZzaEJQU0NXd1ZGSFVUWmxZYnlBMVR1TVlpSXdSLURnN0RaSUF2LWUzNUQ4X3hXVkpoMDFUMnY2T29uY2Z4NFE0anZvb2VNaXoteXhOMGpkOGVacml1VmQ4?oc=5",
+   "domain": "oklahoman.com",
+   "outlet": "The Oklahoman",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "land_use_conflict"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "f50daa0128e5",
+   "title": "Trump UN Address Raises Questions About Iran and Israel",
+   "url": "https://afr.net:443/podcasts/todays-issues-with-tim-wildmon-and-company/2026/september/trump-s-un-address-raises-questions-about-iran-and-israel/",
+   "domain": "afr.net",
+   "outlet": "afr.net",
+   "published": "2026-09-22",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "d6ace121044e",
+   "title": "Transmission Facilitation Program Selections",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vTGhOYUdkbkM4ZVpmMzRYUE0tWEhPLTlqaTdoZDJwQkFabTlKN09MQUY5YzB2M0thQTVDbXpITVlma1hFLXlYRWFUc2xfZXY0Ny1WcGpodm00X080VjFETTZXODV0RDVIODd6eFhzTnhTb2JVdXRUajlwMA?oc=5",
+   "domain": "energy.gov",
+   "outlet": "Department of Energy (.gov)",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "134d28b6cab2",
+   "title": "South Korea’s Lee tells AP he wants step-by-step approach to North Korea’s nuclear dismantlement",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVlKcFM4WXlpTlI0aGxjZmxxeWR0RUxjNWFUV3RjSUdfUnZodmxGYmZYaWVCLVo0OEFfMENOOFpYOV81cUtGOXh5OGVJcW1LUWd6UExOVGFaVnlhTlctREtNT2M4ak96ME9iemw5TGx1UXlpT3E3N0d1UjFCU0hWZC1wSnFvNk12alFvcGIwMnBLclNoMjBHSDczMEhWbHJYSVRldFVUX1ZLWC0xUllWYnYxTjlTcHBVTGZfUnZ2eEZyQ1NyTTNrWm1NVXZ3dTDSAc8BQVVfeXFMTXVZSnBTOFl5aU5SNGhsY2ZscXlkdEVMYzVhVFd0Y0lHX1J2aHZsRmJmWGllQi1aNDhBXzBDTjhaWDlfNXFLRjl4eThlSXFtS1FnelBMTlRhWlZ5YU5XLURLTU9jOGpPejBPYnpsOUxsdVF5aU9xNzdHdVIxQlNIVmQtcEpxbzZNdmpRb3BiMDJwS3JTaDIwR0g3MzBIVmxyWElUZXRVVF9WS1gtMVJZVmJ2MU45U3BwVUxmX1J2dnhGckNTck0za1ptTVV2d3Uw?oc=5",
+   "domain": "kfor.com",
+   "outlet": "KFOR.com",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "bd44ec60614e",
+   "title": "Sofar presents storage solutions and innovations in its national infrastructure during Intersolar.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUZ6aDA5Qk9SNGtNRXF6UGFKN3EyblQ0UzBGdzdzTFE1dGg3NlZIRE9JMjBSNmltdlU5OHBTMFJoX0R0V1FNN05GYVRiN09PX2pIenZ5cmVOYnhNU0tQUFVVOGhKajRqVGd2bVpUcExHUkRWakRsZ3ZnU0RvNVMwY0hyN255V2hadFE?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "tribal"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "3cebc0832233",
+   "title": "Power outage at Viracopos airport affects operations and causes flight delays.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFdVYndZa2U4OEwzY0taQkpIUFVjcjlGZmh1VjFWYzlHZUZ5ai1ET1VfYjNwWVZQbGNqd3FOb1gyRzltUTl5SEVESjJIZTE1Qk1LTjJFay0zS3Jma0JyS0lHYkFHUjItbmlxT3dMUTFyNFEzQ1dPTzBzLXdZbFVveG5PRmZ6RlRWcjdDMVlxc0U?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "cb92982d512f",
+   "title": "New Energy Department geothermal projects include OKC’s GreenFire Energy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHhBZ0l6NFp5OXNmZElhc2d4cHU2TEtTQ2FHS1NmeDZRZ2xIZ2VaczVvd3N3MXBBNVEwMGVPWXVfdlkwREpTZ0NTSVNQQWpkNmhzUVJULUk5QXBfM29fMTRxUUY3clBYQmFaZVI2TTJ4cWJyV3BPLW80eG4tZHFrWjlWT3UtUXBpY2dfZEhEQmpPUmVzeGR5RUtFaGhHOWkzb3NYZGZkN01mQQ?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "geothermal"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "5ec1138588bb",
+   "title": "Massachusetts Invests $40 Million in On-Site Battery Storage to Enhance Grid Resiliency",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUFgzLUhXby1yaHRIa0ZPOW9fSnBSZTZtRXp2T2JISTJvSTl2LWxxZ1VTN2E4eEdpUzJkYi1zYUd6VkFkc1ZnYjBGQkw4Y3BsWWNBYzNMRmxNV2o0dmN1WEVvNTJBSnZOTzdJWVVncFpPcHJFaGExdnBnWVZ4aUkxd0tNZW5ncFpXOXl2bXVKbkpJd0w1dnJEbDRSbkZOYkxhbjczLS1tdUo4QTA3T3NVenVjQXRHVzB0Y0RweWZPZE4wbldZdk5mcHVDZVE2T0x1QW4yUERabnBpNGlNV180LVpNNjdUM0xRbF8xaEhmRXhkdw?oc=5",
+   "domain": "microgridknowledge.com",
+   "outlet": "Microgrid Knowledge",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Massachusetts"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "support_energy",
+    "grid_strain"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "56868e063fa2",
+   "title": "House Examines Nuclear Waste Plan as States Line Up",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRmw0cXZKcUJ6NHFOUUtxc3BWdVlIS3kzUmwyUGU0M2EtOV8zSTlHV295NXFnVHNmb25VZ254S2U4eTlsc2tacFN6dzR1aXBydEplUWR6SkR5S2ZLRFdZWmlmejd5UVF3WGl1aXNremxwekdUbFFKWUI5a0M?oc=5",
+   "domain": "legis1.com",
+   "outlet": "Legis1",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "radioactive_waste"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "02cab8e954b2",
+   "title": "Guest Host , Bishop E . W . Jackson , does a deep dive on Artificial Intelligence",
+   "url": "https://afr.net:443/podcasts/the-hamilton-corner-with-abraham-hamilton-iii/2026/september/guest-host-bishop-ew-jackson-does-a-deep-dive-on-artificial-intelligence/",
+   "domain": "afr.net",
+   "outlet": "afr.net",
+   "published": "2026-09-22",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "ed3fe3815a8f",
+   "title": "DOE targets next-gen geothermal development with $99M for field-scale tests, exploration drilling",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX09xb0F1UUNmbE55X3Y3TFc5YnZTdWF0ZFlOb0RhMmhodGR2cnhOQVM4LWNRckQyOC1FVDdXallLX2tEUDkwOWFFMzdJd1NqMng2ZmVNWS1rTWtrR0plWVVGMTAybmVjRVVsQy1sZEZpR2xqMklBOWZMYlJiVmd0X3NmNGdoa0ZDRmlrS2Q3dGw3UGJQVlI4YWdlN28zLWpHNTY2SkFsZmt5c0lpUzN4QUhTNE1CbnhoZDRuakJVTTZMckhPVHRDQTJfNER2WnJ2aTM1bHdVc1ZzNkdyRE9uWnE3MV8wM0QxUDRuYloxQnhsaHViOFhxdEFEY0k1eGJnRk13?oc=5",
+   "domain": "renewableenergyworld.com",
+   "outlet": "Renewable Energy World",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "geothermal"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "fe10daaa29d5",
+   "title": "ABRACE and APINE present proposals for the electricity sector to presidential candidates.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJMVkEweENuTmRzeURXMXdnUXlMM1ZHVTlQQkZkWkphTzBlV1NGNEVCMzRzU0tJUkZ4cXFHRUxGVjVZODRVVGZDZTFmc3JMZVB2MWdCX1dLMGVOZTlYR3VUN015SXVpbFp6cGoxU29YdWk3N3dXelJkVTM1d3BZelhfU0IwSTZlN1h6czlUWFdpY2JvdTRCLXNVcEVRWlBlN2N1aTh3?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-22",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "67b84c6b9b15",
+   "title": "West Virginia agreement creates framework for potential growth in nuclear sector",
+   "url": "https://wvmetronews.com/2026/09/20/west-virginia-agreement-creates-framework-for-potential-nuclear-job-growth/",
+   "domain": "wvmetronews.com",
+   "outlet": "wvmetronews.com",
+   "published": "2026-09-21",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "West Virginia"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "concessions"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "ea916c77a389",
+   "title": "Underground nuclear reactor project in SE Kansas advances",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRS1IUmVuQV9seHFkZnp4V254ZmV2eXYtODQzVmh3b1FFRWVHOXdOQzhMNHA4cjB6UnRqU0ZCclExNDY1b3ZGM3MtZVh2RVk5bzdCYlhOcll3bzZJZHpTSExyQ2I5SVN2ZUZuZkxzT0U5VXczaVZyaXNZcWw2NUlLOEhfOEctUkdJMGlLb3B4SHllSlRvSGJj?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Kansas"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "9057b96bce32",
+   "title": "Special meeting on proposed Piedmont Data Center",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWFxSXV6OVpkWjFhNFMtdEN1Y2R5a0hXS0RFU1VldHNPVUQzejdfbDB1X28zODZpTUtCUGQ0QkJBTVBzUGRDWUlOTWdBS0ZqaFhNUHppLVFjRFhWX3otd0lZMzNzS1dLM1VLU09jNHhVTGJWVVdGRmZHZ3NWNmYxOWdNdlBtdnBp?oc=5",
+   "domain": "kfor.com",
+   "outlet": "KFOR",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "edf9e72ef985",
+   "title": "Public hearing set in northwest North Dakota wind farm",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEh1MzFwR0dDcFdicklkbmI2MWhwQUF4VzN4RVRDUC14cFpKZlRXcVI4VklrZDRQT2lfNUQtbG5MMmV1eFZCRm55eE9yZko1YkJCOGh3QjdINTZYdklVRC11QTBQekc2LVZqUkdUTXhBamFVV2ZobXRFNkpzbXRMRjZmcGhQZGxrWS1hSU9EMWF3UEN1MDB6dw?oc=5",
+   "domain": "newsfromthestates.com",
+   "outlet": "News From The States",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "wind"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "North Dakota"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "notice_process"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "1897168fad4b",
+   "title": "Mon County lawmaker expresses caution in pursuit of nuclear power",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjhtYlh1VWotRHlkeGlraXVoWEs3Nm9hWWd6akFXdVluSFpEbWppU3hicm9wSTh6bC1oZTNHeUhHcnl0VGVIZW5mZFFna09VdGRPQ25sbndYWE9yRFhISjlCU3FCSmNNYTN4Yy11QnlTd01OazFhVktCU19nbU5td1poNHVlcG9NRy1YU1E4dnoyVlR1dFZETy13?oc=5",
+   "domain": "wajr.com",
+   "outlet": "WAJR",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Mon County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "4a44d0a9ae20",
+   "title": "Joseph Harrington , 87 , of Westborough , longtime Town Moderator",
+   "url": "https://www.communityadvocate.com/obituaries/joseph-harrington-87-of-westborough-longtime-town-moderator/article_83015edf-bafc-4c16-973a-890ffaa762f7.html",
+   "domain": "communityadvocate.com",
+   "outlet": "communityadvocate.com",
+   "published": "2026-09-21",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "e683648d7071",
+   "title": "Investigation continues following solar farm fire near Medicine Lodge",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdG9VaFFxd3hnaDhWaGhISVNqUU5JMW90NndYcUJ2QWxQUzRXcF9SaHAxNFhMdjFrdkx3M2h3SU5LWEV4LWFHOFM0ZDRtNmFhcF9LWjVUWFh5V1RJTTdEY3pjRXVRMjF5dTlHOFZEeVFybG1fb3o0d2xPc0RFcmRlWHdTbjhNUTBhVkttZWxEblEyWFdHN2xGZmhDTzVPOC1JcmVvSA?oc=5",
+   "domain": "kwch.com",
+   "outlet": "KWCH",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "860eeb14f39b",
+   "title": "Hurricane football: the early season standout",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fb0RvV3h1cGxjXzkwWUtueVlObDBKMThleW1EMUQxUUxZbDRza1VlSjdOLXdiS2lTVUF0Ujl1LU9BelkzQVQ3VVdNUWdDLXhSNFpiUHl1OFZpVXdzSlZrWFRSLTV4dGtPVFBTcE95LXlmYWQ4QXQ5aQ?oc=5",
+   "domain": "tucollegian.org",
+   "outlet": "TU Collegian",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "b146f9ede18f",
+   "title": "Europe accelerates battery use and forecasts 57 GWh installed by 2026.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZ29QcWNETFI4SW1MSzNuWGk4SGhoLTJXZ2hfelQwenhScXYtN1NmeHEyVW9RSkJZTXd5TlpPc3FCNk1MY1BoQmx0NGNTUDVuQWU3MjFXZ09xTmhXOTNGTGFHZXI5bkxjbGRlLWNBdmUyeEVJSlBlbC1QckdiQQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "44d30dffb643",
+   "title": "Energy briefs–oil, Houthis, Qatar, Argentina and EPA",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2VtS0wwOU1HMW9nY21VLTFJNDh0NWZnenkybmRWQWdfWWUyR2pfMVhxWFBYQ3N6alBUQ1JNT2xpbDUtZEZMRjJyajhTYjZ0cWlnSERIWldwTXZoT01kNWV6aGpEY01nQlZSc3BpUUdsT0lkUzdObEQxWExCVUM0X0NfTVFnbWpzM3p6Yg?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "377ca3b466c1",
+   "title": "EPE estimates a potential of up to 13 GW to meet demand in Brazil.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIWUU3TmxhaUt5aWsxQ1o0blB5dEdubzViYndIbXB6LXVydlBUOUVDaGQ3ZHROU05wdFFaRnZpcFRaNF91WkRHUzRqOEVWVXppOEo5VC10VnVPWHF3MThUS0NRel9BSW1HbGM2YjM0RUNGMktsREliMldlcE9xQQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "02c42a9135a6",
+   "title": "EDITORIAL: Smelter, AI data centers need a harder look",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWVDNWh2NS1hZWFNajRXT1MtVlRhNmxVMTNVYjBkU0NSeTdOWjd2VUIxTXN4QW5ieU5nTzctN2VlbjI1cmloYWd4Qm1LdVhxRjdNQ21ibDJEdnRrandPVnVPTTNhb3ZSbzJidW56alpUSVJuVkd0dWpyWjRWU25HWGVyWG9hMzFvUDJvLUdrZVlqWkdnWHB6Uy1LeVZad2JIb3BVUFZRZVRjQm1FcVFuZ0YyTHdQM25MQ0M5azJtN2lEbTlPeGdlQnBTOHFDalpnbGkyLWpWWQ?oc=5",
+   "domain": "duncanbanner.com",
+   "outlet": "Duncan Banner",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "f7d01425f6ec",
+   "title": "Commercial HALEU supply chain draft EIS now open for comment",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3FrRFN4NVhqX0I2NDBhUFduczhzT2dLaFl4WnllREktMGVNVXd5YnpNRFg2UDA4OW44Q3AwVHBqRXBQVmhMdHBCanFMTnIzRURDT1lXbUJNZFNETmFTZHZTNDZXa1JIV2xXQnRrTFJWd3UwTEREbm5sclRzLVVwdEZaRkFWc3B4N1N3M3RMZG14NXZfWkx4NDNYM1U5M0tpRXBBSUYxbzZXMGJoZXc?oc=5",
+   "domain": "ans.org",
+   "outlet": "American Nuclear Society -- ANS",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "dfb9ace76d15",
+   "title": "Cause of fire at solar facility in Kansas under investigation",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZeEh2R2lnMlFlck9KRy10QkotNEc4NWlVMkpvR1d3ZHVFMjRJdS1XejZKa2ZRZWd3V2V1TDV5YWRlYTlOdnB4ejFyMnFCbTY3OHVFR3l4S0NoRTJXdlc4OU9mT1A0VlZZbkZWaE9PdEl3X3l2bV9F?oc=5",
+   "domain": "greatbendpost.com",
+   "outlet": "Great Bend Post",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Kansas"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "bf793f5886b1",
+   "title": "ANEEL raises projection for energy tariff increase in 2026 to 9,4%.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWhGWlB6VUZGRXJZZTF1RGwzeGd1Y3BmeEtRUFZVaGZULXkydzdXUElwRWxQcmt2YUpMQUNrRW9HaFAtWVI5SGJBS3JRTFlPQzhpV3RsWmpHT25yQ1RHNGlrak80aHd4R1JZZnhrNTdUMnJLSDRPdkJDQkpuLWNtc2dkRGdyN2ZtN2xxdWtxajlBRDFsMHczSndnaW02YlU0YlFHeTc4S1FXRnc?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-21",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "electricity_rates"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "20bae0e12fb5",
+   "title": "We Need to Talk About the Apocalypse",
+   "url": "https://newrepublic.com/article/215003/christian-dominionism-apocalypse-trump-administration",
+   "domain": "newrepublic.com",
+   "outlet": "newrepublic.com",
+   "published": "2026-09-20",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "1ae4856fea27",
+   "title": "Watertown considers turning old landfill into a solar facility",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTIyeXMtSkVVS284dUhIMFJRd01zWEY4YlZFanZWVDF1NnFWWTR3VFpPTmUwZjh3djFmT2U5WGRPbTNwN1hmTGwwNlZLNVlqd0RfNDRIRW94WjZUY21oN3JBdjdoeFFNcDFmc0xOS0tXeDNJWDZNQUdTRkdrdjBTWTlBNXpoWHdWMUtIZHExYzdudVFQaVZqX1k0NTItY2VLbExOczE2eWdWcTE4eGxuLTZ2MHJIMVh1Z0dUMTNUYmN0dlpseVlVTXU2NDUzWmtvNWNYa3FYcTlUYm5mejFyY1NWTEdVSlVMSU94eA?oc=5",
+   "domain": "nny360.com",
+   "outlet": "nny360.com",
+   "published": "2026-09-20",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "dec647f36408",
+   "title": "Student debt rivals auto loans. We should all pay attention | Opinion",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaXBKSi1ndXVlZGZmcWpvSWk3QUtQYVZLOEliVkFkaWxHV25aLV9WbnlvZ3R2azVlQmMzWlVUczc1YVdJZ1N3NW9EbndTbU5DeXM0eXpJVWM1elhtZFJNSkdqLTJLck9vUVNOQXhMdjlFdnB5ZHo2Ny1nWVcyY19iS3dsa0NRVVJVaTZ6OW9EcW9WSG1uVkRtNk1ZdEYxellIdHNJeW5yMUVvWlNzS2hsNzdUWHR3Vldwa3dYUU8tZnlGRXd1UWJDVDRNdzBxaFo1QWpzdg?oc=5",
+   "domain": "oklahoman.com",
+   "outlet": "The Oklahoman",
+   "published": "2026-09-20",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "3017380d9dc9",
+   "title": "Oklahoma town's only SNAP grocer shows how food-aid restrictions hit rural shoppers",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR19xOHV1N0NPN1lWY0o0YWhvdXh1Tkstb1dfdk9Lc3Q2NzktS1NkZ2dDYWM0MHczSVY4V1JvMUx5VXl0N3lfS0FpTEFFbG1EYVRhclp1ekZfRi1WV2RMSFBOX1FReUVaVnI5VnVXQlNtTHZ4ck9mYmhDU3ZZZS05eDFueXR1bnFMd0p3Tw?oc=5",
+   "domain": "thecooldown.com",
+   "outlet": "The Cool Down",
+   "published": "2026-09-20",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "rural_character"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "9fc6c8544354",
+   "title": "Jane Street-Linked Data Center Debt Sours",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3JqaDZtWmVxelF0WnI5WWNkQVhsLS1GRmMzVTBFNUxnOE1yazZfcC1BYWpZVDVTSHF5cFVBWlNPVWRVRDI3TmZNcmk1OHFNbk9tYk8tY3JrMWFLeUt0X1lZSDBhYlFNVHVvM2U0SUNWLW52SjYwUmU0Z1ozUEczaUVENml6eHRK?oc=5",
+   "domain": "theinformation.com",
+   "outlet": "The Information",
+   "published": "2026-09-20",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "6f02c2986b7b",
+   "title": "Energy leader says nuclear campus is an opportunity for Oklahoma",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTZIdDMzSlBHTzJuMFZGbFFPczNDWDlrOTc3cThHVWdVYmJuU3l4LXJQY2duQVg5Q2lJRHRfaFVfTHFtRzJ2bnpwekRsZW1NUEg3aHRiWEdxb2E1XzU1WDg0V3Z2VEFvdFJVOGZBV1cwdlpmN1hmbkZhYUFWdV9sd3lSWko2MFg4UnhpVkg4eC1WQk4waDlSZUZiVFBHdDht?oc=5",
+   "domain": "okenergytoday.com",
+   "outlet": "Oklahoma Energy Today",
+   "published": "2026-09-20",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "dcd894baed65",
+   "title": "Staffing Problems Stall Federal Investigations of Missing and Killed Native People",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdktSc0VDa2RmLUJKOGpYRmRNdE1aSVdSYmFIRF9fcjZJNzNocUNqZENSNVhYZDFJSVk4VV80WmVwbmo2OVRVdE9VV0ZiZDdHZFQ0cGZCMWU3ZnptZjk5WURjQkdLRUZsZXdlR3FlaHRDZzFkZFlpYlJQa3pvT3FjMF93ajNKMGxJWlpuSnBRYXhYNFJkWnFxM05DcGg4S2VuVzczVXM1VFhYTnlvbEVYVzBTVml4YzFZRUtUNw?oc=5",
+   "domain": "oklahomawatch.org",
+   "outlet": "Oklahoma Watch",
+   "published": "2026-09-19",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "404f13e864b3",
+   "title": "Kansas commission approves portion of Evergy transmission line",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXZGMzN3NEVkdUFSbkgycU1DZ2hsQWlGVnJESW1lSFRWUHBmaVdzTGxFYWlzOG9NclJYMmlld1ktaHJvQndlSnFHS2Rpc1ZkRlFiWFdlZjFtMHNBdElhczFXdkxzX1BkM3MwV2lHY1lheFVPQUxhRmhEZ1RSQXhsR0pvajRBQjg4YVVLUXd2S3E5am01RE1vTzgwOGswS09hS2RxQjJ0MXg?oc=5",
+   "domain": "dailyenergyinsider.com",
+   "outlet": "Daily Energy Insider",
+   "published": "2026-09-19",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Kansas"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "c22fba443514",
+   "title": "Hickman spotlights differences with Labrador in AG race during Idaho Falls forum",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaW4yQ2FsRVNkRzh6R204YnlkOXhzT2FWSDhITTNLQXFVT0E1dnhNYTZINGpJbGVhVWVhNEUtemRyMjNqNjgtM3RLU1hVS1ZIeU1GeDByMThlVm81SEw4cWNVVGhjLW1oRWMyVlIwaGJiazZnSUl5QmswaTR2NWxYUllfZzBnSWxEd1dKbi12LVFad0wtOXJoTlNiM3BWNmtEbExjVmZudUdzenlWbkQzN1JYZk1reHdRc19yaUVoZU5FUktYdzMydmc4dGNhbVk3bnhZYzFCb3NSTzBkN21RWTlBOVJwbzhsY3Juc0ZJS3JVSU1sRGpiRmRVMEV5bU0?oc=5",
+   "domain": "postregister.com",
+   "outlet": "postregister.com",
+   "published": "2026-09-19",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Idaho"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "7557659ac2db",
+   "title": "What to know about proposed Grady County data center",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3ZING92dXlrZWVkSlpIR0JUVGh1YjdNUHVhOUpFZjlBMmlHb0ZvS19PZmctQ0hhM1d2bHBzUFJFeWRYQlRMcnpWb004cTRPT1hRaWdnZVVoTmZ0WUJreFNJS3MwcG9JMVR0Xy1BdzktWnhuamtoREpZaG1rUHRHWmMtZ2E4NGs?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Grady County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "0b32fcc70891",
+   "title": "What to know about Piedmont’s Project Open Sky Data Center",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjRILUVVcXMyUHFVaEJ6cTVZYlQzN01SQ0lieVdvM21xNFA1QUpWRVpQQzlURnFjbW1iY2xGdzd1NG80c0l5aG1TRWZSUnBKVk9WN01LNGhYVUpWb0c0RmY3dWo5VDVWTENaWWtxejh2a2dlY0lUZmd2amc2XzZYdGdQTWhWLWlJM0dMMmxn?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
+   "id": "4d1be361dc16",
+   "title": "Social electricity tariff may be automatic for low-income retirees.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmdUODVVSERpS3FDTWM1ZGJsdGZlME9hQmJMSllGNDUzY2NNVnNvRHJfN3RuRnpsbXBaUk8yYzdFTGFxX0JxY201bTVwYnhuZmpVbG5Na2NoVnZfazZxX01LTEJoV1lzaEpCRURZZllhclpxQmhpYmtvSEdMZkRQNjI5NWdJUQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "electricity_rates"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
+   "id": "09b4aaad04bc",
+   "title": "Reclassification of power plant in the SIN (National Interconnected System) has repercussions among generators.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNk45LVgxTHNTRExvQXVOQlEzU3R1M2pLeHVDR1ByRlZteFRpdy1FTk1xbmljV0JyQmU5cW02X1IwRzVPS2ktYXRrTENlak1NSWI4WFkwemRXbmFTYzRrZXRpcWFXRmNrckdncVhHZjZyZzZXMUxKTU8xU2pOdHZBNU1xbEoyWklNbFozS1NwNVdiXzIxSS12RVA3M0VuYmRUYzBsaWIzVnNkSndOX3JOVUdHc3FmQQ?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [
+    "tribal"
+   ],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
   {
    "id": "aa453516ba0d",
    "title": "Pueblo County to be connection point for major power grid project",
@@ -25,13 +2742,41 @@
     "Oklahoma"
    ],
    "cues": [
-    "support_energy",
-    "grid_strain"
+    "grid_strain",
+    "support_energy"
    ],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
+  },
+  {
+   "id": "e02094c11b75",
+   "title": "Piedmont residents push back against revised data center proposal",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmlCVG5nLVlRbllEbExHRzRqalVudTlnY3F4MGs2Zk85eDdTcFJWejRLOTdnTWdNdTJBa3UwLUxXUG9FeVhDVWsxb3V0cDgwUTFOUHZ0QzNWMzkzRHMwSkVwckhKV2xxR2NBdVRfU3c4TXAySS0wS1BXMUNhMjFpbmtTS3QtNHZ3WVdwWGdR?oc=5",
+   "domain": "yahoo.com",
+   "outlet": "Yahoo",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
   },
   {
    "id": "f4a0bcd16a56",
@@ -54,11 +2799,11 @@
     "Oklahoma"
    ],
    "cues": [
-    "land_use_conflict",
-    "benefits_doubt"
+    "benefits_doubt",
+    "land_use_conflict"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -86,7 +2831,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -149,6 +2894,34 @@
    "weak": false
   },
   {
+   "id": "8587a4d0484d",
+   "title": "Columbia County weighs legality of wielding power over wind farm",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHhXLWNOdFl0ejRhR2poQ1ZSU1JkMWZUXzVsWS1keTd4aWxMbEd3SkN0MnVVVkdVRGFWUUhHQ1BiTjYyLWpDTlYwZTJLeXpOY3MwTnVkREdxUVlIc3pqWUpNbUV6WW1YTEVIaTNObGtPdnhRQ2JfUkIwQ3c3OEwzWkxEeEVRUjZp?oc=5",
+   "domain": "wiscnews.com",
+   "outlet": "Wiscnews.com",
+   "published": "2026-09-18",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "wind"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Columbia County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 4,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "b5dec1f3f9c8",
    "title": "5 Things To Know: Piedmont data center rezoning, Enid daycare fraud",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3pGU05sTUctSjhOcFU0M29yRjA0dFpQZ0dQRXB5Q29UckVIY0ozLU9keEV2dXpkc1NlOTNaRXV6NWo1YkJRMFphd0l4azZTcXh2OUJvR0lGY3lwTzlYdDUwN2prNDJtX0F1VUMxSXVqcy1DR2dWd25VTVByUDQ0UDVUM1JDYVAtcTBCYWNUamh1R01GY0NkQ1MwbjFuRmE3cnVQeFNYT3V1QQ?oc=5",
@@ -173,7 +2946,7 @@
     "land_use_conflict"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -201,7 +2974,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -227,7 +3000,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -270,7 +3043,8 @@
     "googlenews"
    ],
    "topics": [
-    "storage"
+    "storage",
+    "transmission"
    ],
    "states": [
     "Oklahoma"
@@ -283,7 +3057,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -311,7 +3085,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -337,7 +3111,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -363,7 +3137,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -422,6 +3196,34 @@
    "weak": true
   },
   {
+   "id": "1d39ba71c6cd",
+   "title": "Piedmont City Council to decide on revised data center project after concerns raised",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEVFdGdSTUZYWTRIbTR1MHh4cnRyeVZZUVctX20tZ1dCTlRtN05xMkpnUjRfRDBpQVlLckE1NUlnUGh5ajNkY0w5bFljQ3NVUlppS3BoSEpzd25ZM2d2MnRicmN5aUhfbzBxTk0wNi1CTVJlRkVzdVJ0S0RDS1dRWndFSXVmanZCS3lYQXRR?oc=5",
+   "domain": "yahoo.com",
+   "outlet": "Yahoo",
+   "published": "2026-09-17",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "b1f2054b4680",
    "title": "Oklo’s Isotope Test Reactor achieves criticality",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0NCc3llSXI1X3NjUlllckFBd2htbTR4dGU5N25QVHVNSmpQNEIzRVN0c2g3N2VnNU9RR2k5Y1FuRjktS0NDU3NLMk5aU21kLU1Zd0h4SXNya1NTZWZkVWdPbFlRQ3JPVGZ1cHhPU21YajA4TlUtVUNldjZya1N5b0FMdTV6N2FKbzlFRVY5QQ?oc=5",
@@ -443,7 +3245,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -618,6 +3420,32 @@
    "weak": true
   },
   {
+   "id": "c3c6c7b9f748",
+   "title": "MOL Opens New Solar and Battery Storage Project in Hungary",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3VTRkp3enI4bXVMa2RCZ3I3Y24zX2pIU3owaVpnMTFJX3RPRkctTjUzaDROMnAxNjVPR0tYUWJ2dk4yR2plbFc1Wi16cVFTbUE4ekJmd1FBdURicms0bmZyR2F3cFNJYVY3RjhJcHhmM3pWUTB5bXFUY3NqUGVtTDFEM0xqNHZZbDR0aEFlVlZ4RHFFWVlyNk5tbldYZ9IBowFBVV95cUxQTkdoVFh5OTFrY2g0NDhQWnpIYnpzUkZQTGp0NW5UNU0wN2s3M0F5VTdtbGQ2Nm5ZVksxNlpTa3lLci10ekU4VHladEtCTlFPcTd4Qzl3YWVpRTdfN3plVzB4ejF6YWh1RlZQMzM1RXJIem82cHRoY29BTUJINHlSUU1wTGVMeHVrZUd2cFVfZnhXSUR2X0VISF9lT0pzS1VtRVFj?oc=5",
+   "domain": "oilprice.com",
+   "outlet": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-09-17",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "c18c2998f358",
    "title": "House subcommittee discusses NLIC, nuclear spent fuel policy -- ANS / Nuclear Newswire",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlFrWTNNM2ZJMHhHUHNmajdadHgwUTJUNWgyZWdmck83Tm55eUFqNHlMWmRjWF9lZm1PQXFvdm9ZdTZ5WHBTc3IxemRJZUVuLXFiWVh4clZnNmQxV3lGa21vSXR6NkdKcWFlVjA2dXdscTllTWtGRDQxWDhjeGdYTDNwa3l2eEJWcDU0dXZoamVJNTF0M3dxQjVVWjlpckk?oc=5",
@@ -721,8 +3549,32 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": true
+  },
+  {
+   "id": "cb62b4e259c6",
+   "title": "Energy consumption by AI servers is expected to double by 2030.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVViaWRubjlmMGRzbnBYdFk0NWF0bTJBYVFTM193dnZLSlR4TEV2VFVpdGRhbnhYUzFna0hjRTVCb0l5ZERRZEdwMU15Sl9xTDkxRzB2UTEydnFiVjRMZkdUTGxYZFN5Y3F5ZkdCTTZJNzdCRGZFdlo3Mld0NVRQVG9TTjhCZlhB?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-17",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": true
   },
   {
@@ -749,7 +3601,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -777,8 +3629,34 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "ce97518a7f8f",
+   "title": "Area near North Korean nuclear site has experienced nearly 1,400 quakes",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSm02bTFXQ2Q0YVFhUTNMSVdiS2ZWS1lxMFdwNGxvMTJDUEwzUThNVDUwMHZ0Y240OHBzMjE5UlpfMWZRYmJyZTlPcFVIR0ZSN0Q2T3dBTXpUdVJPNmNXUVJoaldFVnhpMk0yS0VrWVl0V2FsQmRMcVgtNGpDd2pJSnZrYm1iSTMza2NRT3hn?oc=5",
+   "domain": "cnn.com",
+   "outlet": "CNN",
+   "published": "2026-09-17",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -942,6 +3820,30 @@
    "weak": false
   },
   {
+   "id": "7c2acc89ac6c",
+   "title": "The era of REDs: distributed energy in motion.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyNGRqNl9maWNqd3lVTWJBSE1oZkExQVNDd05HaTBNM0VFQXdmNVpCaXNBQkN6Y2kyaF84dHZkeThJcDVKeUFtbVFLcjU2b2Z5N05jX3h4YUc1OF9ZWjZLWGRlVkhXZ0MyS0NLRnpwWmJSU2lXck03Vm5n?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-16",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
    "id": "2912d09cf367",
    "title": "The No. 21 Ducks convened a player-led meeting after losing to Oklahoma State",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjB4UDd0dExvUXJfaGFhclZvRE1pWkE4VHgtX3lEVEg5SGJwdEZINXRBd0RPdS13a01SLWY5MWlQOW1OejhmclJYbmJXbHVpRmhQaUR6eEV4UzdhcGJGelc4REY3S25peUcxRXpWdE1hWUlJVFV0eWowUlBWNU4tb1dZazhvREV2T0ZCNXR2WklXZUlxaFhVWU9OMFE5XzF0OV9kVDhGejhINE5rTkRyUlp6aFNDNkdnNnF1QWhtczlMUEsyMkFZLTl4TDRReFBEb2JtUHl4emxsUEZmZXQ0YlFWY3cwSWwya1ZkekYzY29lZUV1YzZ0Sm1MVFNqekxC?oc=5",
@@ -993,7 +3895,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1021,7 +3923,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1077,7 +3979,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1134,8 +4036,34 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "ff066e979d74",
+   "title": "Liberty Utilities selects route for transmission line project",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZmQxeVYtT3N4aDNtRGRFUktYNTRtMjM2Y05nNXRBaFM0aEI5OVV5eWpSTGRhV1JLRXhXZ3V6dk44cWE4ZmU3dzJNYkZrQW5kYkNwX3AxRzFSbFpkSGJqeUdpMnlTejhvaF9LSllubnhlQ2xfdkJ2NzhHOGh6b2Fwd2luVWNFYzJEdzBWUzVLUDRIcFFobXJyOGpYallCOUVhYkJBY3dyaHNaLS16bWJRc1BhbF9QMGltY2RFRFJEeWNaRWRpcW1iUk1Ub0tyS1pJOFJORXlaMnFWY3RsaEk2NjFsd2ZlQmRza0hz?oc=5",
+   "domain": "koamnewsnow.com",
+   "outlet": "KOAM News Now",
+   "published": "2026-09-16",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "transmission"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -1162,7 +4090,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1288,7 +4216,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1316,7 +4244,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1422,7 +4350,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1505,6 +4433,32 @@
    "weak": true
   },
   {
+   "id": "2c1aad638e26",
+   "title": "Solar Battery Cost: Is It Worth It? (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWwyM0t1RDhMUjBDbjJ0UWFFczFNWVUxNndZVWJvcnRPcE5VZmpaME9QMFQ0ZFg4MHNmMDhXOENpS00wLVZybVdpQ2VucndBWTFKanlERUZGRm5kcmdteS1LQzVvUFNFMnNaeEtiOVpJR3Z1Y3I0M25VTmJSaERPOXF1eTl5Z015QkE?oc=5",
+   "domain": "consumeraffairs.com",
+   "outlet": "ConsumerAffairs",
+   "published": "2026-09-15",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
    "id": "eee72150b169",
    "title": "Redata is sanctioned by the Brazilian government with incentives for data centers.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODFLUHJqNkRJVlRMa1dzLWZGSGRGY0k5VEFweVhwMExZdEZPV01Za3NTUnp4c0V4M0JMcDNLZmd6dTQ2cDF0ZVpGOGFRZWdXWDZsWTRHUXltS1lLWjdTemMxaVF5MUM3c1dxY0lwVEIycm9QdW5ZWlNyQk1BTUtOdDhKSDRaeDFpcTJUeG00UGRiUVRuUmpKczJOZWlmdw?oc=5",
@@ -1557,7 +4511,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1588,7 +4542,7 @@
     "tax_abatement"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1619,7 +4573,7 @@
     "tax_abatement"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1649,7 +4603,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1677,7 +4631,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1731,7 +4685,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1759,8 +4713,36 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "20b53b8bbaf6",
+   "title": "Georgia Power Starts 128-MW Battery Storage Facility Near Robins AFB",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakhPblZwRWlZOGZBX2ZKb18tZDRSZnlrOHR6TmpEcEhjd2xiQjNueU1HV2RKa0d0dmVOeFFROERlVWMxY0FYZnV4dXhRUTV2V09qX3Z6VFBZTGQtZUloVEJnS2tiTzl4bzBUUGFJME5td3JNVmlNNi1pWENrd3VXNTlWRTlMdWk5a3NsNjZ2YzV6QlVLZXMwZlpzMENKZWtkN0NQbGt2VFFCZ1nSAbABQVVfeXFMTVoyMURKQXMydWZuWmN4SVhkOEI1TFo1OUJRb24zSFdySXJNdEJMRkwtY1J6eHBaZlZzQ25TSU1EVkMwMFYwVWl0SVdQSWN4ZmxHeDcxWklWZ29zWkRaYi0tVmYzdkZMdjc5QmxMZF9JWVJKN04tNkp6YnZjLU1BejZnbmNxMGdfemtvTzdUTmJFLUdyUzVVX284VlEzbTA1c1daSVRySGRJcWg0S24tei0?oc=5",
+   "domain": "oilprice.com",
+   "outlet": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-09-15",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "Georgia"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -1785,7 +4767,7 @@
     "support_energy"
    ],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1813,7 +4795,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1869,7 +4851,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -1893,7 +4875,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1917,7 +4899,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -1946,9 +4928,33 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
+  },
+  {
+   "id": "89dd10910d5f",
+   "title": "ANEEL proposes a new classification for the operation of power plants in the electrical system.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3R2RXhYWkk3MmVQcXBtYklKaVE2VmdDYThyWWs5ZmF3M3BYM1Jhc2tBbmhxU2VGREFPekpNYVJmOXRCUGtzUVQyalNWVzN1elJkTkZPZmc1UlBpSUgxcWNrci03Mm5ycm9EZ25XamY1VmRYc0JmZnFjVmNHSUlrUXk2ZXFWT295aVNUVVpReVdKZk9ES2piQlpWYkFRdFdMYWJydXprMW9fYmlzSXJIRkNQVkFaYzFVMEFiZDQyX2NYbnVNZ3UzZFdNdzNhdlhXaGc?oc=5",
+   "domain": "canalsolar.com.br",
+   "outlet": "Canal Solar",
+   "published": "2026-09-15",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar_on_water"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
   },
   {
    "id": "e20b0c99d8fe",
@@ -1974,7 +4980,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2002,7 +5008,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2032,7 +5038,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2061,7 +5067,7 @@
     "electricity_rates"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2085,7 +5091,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2167,7 +5173,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2194,11 +5200,11 @@
     "Oklahoma"
    ],
    "cues": [
-    "tribal",
-    "support_energy"
+    "support_energy",
+    "tribal"
    ],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2224,7 +5230,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2278,8 +5284,36 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "fc6d150bf065",
+   "title": "Crusoe opens second Tulsa facility, a 400,000-square-foot data center campus",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVU2c0hOeDZEYVVaQkJnTDZpWjBkelB3MzJMRC1pQ2FwQ1F2a3gzVnM5ZUNSRUpxTDR0Vm1uaG52NEFoQXdKTGVhX2htb1lvYTkwNnUtMXhubUlCTGlvN2ZPZUpYZFpyQl91UUlZRGV3UXBCUlBmdkJXSWNVM203X3B4Y0NqZExibVlnVkE3VzFfNjdGSVRGc0M5eEY1QXlyY0ZXeTVvYzZoeENZeERuOW8zdFR3M2s?oc=5",
+   "domain": "kjrh.com",
+   "outlet": "2 News Oklahoma KJRH Tulsa",
+   "published": "2026-09-14",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -2306,7 +5340,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2364,7 +5398,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2392,7 +5426,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2446,7 +5480,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2476,8 +5510,36 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
+   "weak": false
+  },
+  {
+   "id": "030964b21a76",
+   "title": "Data Center Moratoriums (2026) — Which States Are Restricting Data Centers?",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50QXY4N21nUVZ3TEZKY0tSNVhvOGpGNkpyelNfNnl1S0pFNEVkNTVxTlpJMzZNYUp6REwzalNmOFo1RzQ5THVVRVJ4dDBaSVU3Znd2ejhsd2lnOGQwVWF0UlVmaXExdw?oc=5",
+   "domain": "electricchoice.com",
+   "outlet": "ElectricChoice.com",
+   "published": "2026-09-13",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -2502,7 +5564,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -2530,7 +5592,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -2620,6 +5682,34 @@
    "weak": true
   },
   {
+   "id": "6ef218d84e84",
+   "title": "Oklahoma French bulldog, starved and shot twice in the head, stands and walks 2 days after rescue",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU5BZHZYUkxLZ2VScjJQQUJaMW00VGpXeEpsdFZWVHduSjhENW1FNHdHcHRmRWF6OUNZQjdJVTNsbWVCNVNYUG5fVGktWXVOckJyQUxQdEctOXhkTV8zeDNmSlQzd1JkZzgxR1E4VW84ZHFqSlFwY2lQcE9wcWpNZ1hjZ2NGU1lIQTZTeW1R?oc=5",
+   "domain": "thecooldown.com",
+   "outlet": "The Cool Down",
+   "published": "2026-09-12",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
    "id": "6f367256abce",
    "title": "HBO Ambitious 9 - Hour Superhero Series Is So Good , It Makes The Movie Version Look Small",
    "url": "https://screenrant.com/watchmen-hbo-series-makes-movie-look-small/",
@@ -2641,7 +5731,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -2680,6 +5770,7 @@
     "googlenews"
    ],
    "topics": [
+    "data_center",
     "nuclear"
    ],
    "states": [
@@ -2695,7 +5786,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2724,7 +5815,7 @@
     "tax_abatement"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -2752,7 +5843,7 @@
     "radioactive_waste"
    ],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -2780,7 +5871,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -2806,6 +5897,32 @@
    "score": 0,
    "last_seen": "2026-09-18",
    "first_seen": "2026-09-14",
+   "weak": true
+  },
+  {
+   "id": "e4229902288c",
+   "title": "Student, 11, dies after collapsing at football practice at OKC school",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLVZ6UkZ0ZHFxWHFkdDhBckRJXzRoYjZPUGRQZHpoOExjVkI4YlFzbnhvTy01amE1dTRrNUhVYTlUSmVMaWVvMHpIS1k4bzFEbmJDbU5iVUN6S0pwcV9FSEtWZHppaFpOaG0zLWtqSXQzb3FZbWxZc0hUcG5LZUM1QUxtZlQzTG4yY2ppbFQwSTR0LWhjQkJ0LTQyY3ZIQVRQXzFLRTl5ZXV0bGJBOXd3akw4QTdPeTd3YWhoTUxhZlVGQlBJRnRNSm4wT1pncFV1dlZZcFZOOVJLSURINlZvZFdWQ0F1d0JoYlE?oc=5",
+   "domain": "oklahoman.com",
+   "outlet": "The Oklahoman",
+   "published": "2026-09-11",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": true
   },
   {
@@ -2884,7 +6001,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -2914,7 +6031,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -2983,6 +6100,7 @@
     "googlenews"
    ],
    "topics": [
+    "data_center",
     "nuclear"
    ],
    "states": [],
@@ -2994,7 +6112,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -3020,7 +6138,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -3079,6 +6197,32 @@
    "last_seen": "2026-09-14",
    "first_seen": "2026-09-14",
    "weak": false
+  },
+  {
+   "id": "48b06e06701e",
+   "title": "Energy Transfer ( NYSE : ET ) versus Excelerate Energy ( NYSE : EE ) Financial Survey",
+   "url": "https://www.tickerreport.com/banking-finance/13581339/energy-transfer-nyseet-versus-excelerate-energy-nyseee-financial-survey.html",
+   "domain": "tickerreport.com",
+   "outlet": "tickerreport.com",
+   "published": "2026-09-11",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "hydrogen"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
   },
   {
    "id": "20c6a34c81f7",
@@ -3152,7 +6296,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -3193,7 +6337,8 @@
    "outlet": "morningjournalnews.com",
    "published": "2026-09-10",
    "sources": [
-    "gdelt"
+    "gdelt",
+    "googlenews"
    ],
    "topics": [
     "nuclear"
@@ -3207,7 +6352,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3259,7 +6404,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3365,7 +6510,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -3423,7 +6568,7 @@
     "electricity_rates"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3477,7 +6622,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -3529,7 +6674,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -3557,7 +6702,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -3609,7 +6754,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -3663,7 +6808,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3775,7 +6920,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -3802,7 +6947,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -3857,7 +7002,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3886,7 +7031,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -3941,7 +7086,7 @@
     "support_jobs"
    ],
    "score": 2,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -4057,7 +7202,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -4083,7 +7228,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -4112,7 +7257,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -4142,7 +7287,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -4225,7 +7370,7 @@
     "local_control"
    ],
    "score": 2,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -4308,7 +7453,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -4338,7 +7483,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -4420,7 +7565,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -4555,6 +7700,34 @@
    "weak": false
   },
   {
+   "id": "c0971eaff876",
+   "title": "What to Know: Pryor Hosts Eight Data Centers on Google Campus",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXNnb3JGZE5DOFdVZHowTTNmaEFnQjlIVkRXaGM5aTNQYVlhRE1pUGo4MEtlMmc4cktBQnk5M0c2dVBLUzlfTGF2Yzd4VE10N1ZvS2RKTHRLbWlISmltaFExaEVMRXBENk5yaVVXUjluTm82OGU1c0llSjVmamFuOHFIeE95c0NWdDJRNQ?oc=5",
+   "domain": "newson6.com",
+   "outlet": "News On 6",
+   "published": "2026-09-08",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "d9515435c260",
    "title": "What to Know: Pawhuska Data Center",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGwwbkgtVGt3UlVrc2pkSUJFT0pGd19tb29LNXIzVGwwZGgxa2VjM2dMcmU1Mnh4LWE3bnZ5cUZWVmx0dVU2U0lQTDJwcFV5WkxwQTduSnczb0prV2RrWWRNaFVpMUEtVjcyNks1QVF6NzlHcUZYQWtITzd1Vkh6TXlzS24?oc=5",
@@ -4578,8 +7751,38 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "fc9a9f1b7d69",
+   "title": "What to Know: Kiowa Data Center planned for Pittsburg County",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRGNHcXlWaFR4MHpnamhfa25oS1ZfTDk3SEdLcS1QV3dJcGtKbERMbXE1RFpnemwwWGJpZ0oxUTBhenBwbERsRDNWUFZ6aHBQUlMxREN5NF9ZS2VoU3ZDNW9lR1J2YkRfSXAwSFdhbnZkQjgzZHhmNjZjUjFpSzlaUk9PMTdVbnNXTGVTb0w3Z0dPNDJOZjlMa2RLdUlmS0hUamJWVDJPU1hxTjhZ?oc=5",
+   "domain": "newson6.com",
+   "outlet": "News On 6",
+   "published": "2026-09-08",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Pittsburg County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 3,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -4606,8 +7809,38 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "57059fb21ce7",
+   "title": "West Virginia to join new nationwide nuclear campus initiative",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNxalRZVExZMm9veVN1OC05c05GdGdXX05wekYwTFFnODFoby1LczY5QUcxbzBRSHhod0hWT3V1ZmtSUnJLRGVzQkJ1elNmZUFqSzF3elk1Q3NBaHl4R0RQMzN6WUJoRkpZM0RXd01BZVpXel9XRGY3Y19JUzVGdjlHSEZTLTJMMkRjeVNlYWMzWkpwdWdyZzExd3U0RWstaEF5R0NB0gGrAUFVX3lxTE5pNnlXaHdDbDN3cVdxbzZFdlctX2JJMTNtUXloOFliUEdyb1Y5WWt0a3lmYWF3aHhkVVA2emdySDk2TWtYV0N6eFpZTDQ2QVN4dlNxUDNlQVlYYklOTEtSUlZfbUFoRGZrYUVmelk0enN6NnZNblBGaGttRVBGLXdUd3NSOFdYNmplUEQ2RWV1c0tYQkRId0g1SG9COG9LRTVnaVpfSHlKSW9iYw?oc=5",
+   "domain": "wboy.com",
+   "outlet": "WBOY.com",
+   "published": "2026-09-08",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": true,
+   "other_states": [
+    "West Virginia"
+   ],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tribal"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -4634,7 +7867,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -4660,7 +7893,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -4736,7 +7969,7 @@
    "via_states": [],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -4762,7 +7995,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -4790,7 +8023,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -4877,7 +8110,7 @@
     "electricity_rates"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -4906,7 +8139,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -4938,8 +8171,34 @@
     "water_use"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "6405278c8d66",
+   "title": "Morrisey announces W.Va. becomes 6th state to join nuclear energy opportunity",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFMyOEdnZkJNdGZXd1V2b1ZjWUF1cGVQS2FHRXByYm5tZHlSWjFVVWxseHBEeC1za3NqTEtidllUeVVYWmk3MEZhdkpQNWVRaFR0MEVWaHZLQk9xb0lKbFZ5YjRwYzNBYVFCek1Gc3Zsa1ZNb3I2VE80bG4wa09nRkwzNWt5UVJfallXWTNvTUJ4UE1OUEtwcFhHaHV1ektmVDZjaUdSQ2LSAbwBQVVfeXFMTlVsOFNSdjAwNHM2cEUtenRUdXcxUGI5VUVENmR0Mkp5MTJKaFp0Q0hCSTdldktpb2p2SFlCUjJxeDNzdnlhWjJLOTdFalNFQnNKazFZOHo2SjRpQmdqQUFfVTl0Nll5a0NXc1NJWFFkUDUtU3NfX0Y5NnVKZ2hKc3ZMX3gxTUkzYmQxZFZCV3BZZTkwNHoyWENVaFQzZEQzeVJUQ2Q3TWhGLVZORXEzcnhNanhOOEJ2MUU3Tms?oc=5",
+   "domain": "wdtv.com",
+   "outlet": "WDTV 5",
+   "published": "2026-09-08",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -4966,9 +8225,37 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
+  },
+  {
+   "id": "32948cab5be1",
+   "title": "Grant County turbine project ongoing",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEhOOENzVTFLT0s2ME5sd1FUSF9hY2c3Mm5hWUlLRzVub0RsVGlLbFZrUGk3TXJGczZLYTNvU0NxRmxLXzBxQlVvNEMzMEtjNjVDQ1lUb1ZvVW5WX2dYWU5vaXBvU3Q4VXB2SHpjYTZYak82czlSRFo0THB6aTBmWldsNzNSYzJ6TGtMYVhWbVFvMzhYNDI0dU5FdFZYRmtJMktDU09lSkh1aGswNE5JVUZlZ3g0OW1RamU1ci00ZjVJUUk?oc=5",
+   "domain": "enidnews.com",
+   "outlet": "Enidnews.com",
+   "published": "2026-09-08",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "wind"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [
+    "Grant County"
+   ],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
   },
   {
    "id": "86ed4acdda4c",
@@ -4994,7 +8281,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -5022,7 +8309,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -5132,6 +8419,34 @@
    "weak": true
   },
   {
+   "id": "f58b6ebb3944",
+   "title": "University of Tulsa defeats Oklahoma State University in season opener",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjdURkVTd3o1Z0l0R19mZEtCamVWUEdFeHItRDU5Y1BBS2VSRjRvZmdGQzR4a2g4WW82Nnl5ZnhHMDFOd0FjLUVwdWVhcXFtTjZtZnd6ZUFkblVqb1ZRdl81WWRZY2gyeE9HblpzMzVnR0hhRGZkc2NISURxQlFteWp2YnAxNTFuZDlQeW1jNDFIdEM1VWdnZ2hDbw?oc=5",
+   "domain": "tucollegian.org",
+   "outlet": "TU Collegian",
+   "published": "2026-09-07",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
    "id": "64f28b123543",
    "title": "September 7th: Pathways to Energy Independence",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RSjk0bUE0V0ZCcW5aVGsxOGhHd3JiN3J3aXM2dkdtUXBGWlRvcHh2MlhLM0Z5aVhTWWVtbVA1VVc5Tjh3SlF2eVdqSC1mN2dXa2ZWYmhtekgya0JNZ3QzR01yeG55MTFfSnUxXzFNNVVkWW9RS01ESFA4NUhVQQ?oc=5",
@@ -5183,7 +8498,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -5213,6 +8528,32 @@
    "score": 4,
    "last_seen": "2026-09-18",
    "first_seen": "2026-09-18",
+   "weak": false
+  },
+  {
+   "id": "54b6d6dbb5da",
+   "title": "GM, Ford Turn EV Battery Bust Into Energy Storage Bet",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlZncXlWekVLSHpBaHFNYnVFb3laTFozdU9uLWtHVU44WjZiOUo0NVd5V3UxMEVtZFR2QWM0dC1yM3lua1R4T1R3SUViLUtha0F5WGJ5UWxqUm9IdndKby14UV9MTnZubEJ4TkphUk5aMWJVREN3bTc3UDdmUlFiUHQ5ZGFKU2F2V2F4V2xMNERYR1ZqclFaVmVab01SQVdVWGfSAacBQVVfeXFMTjV3SDg0eXFQWDFpX0gyLWU4dXQ2NU1MV1ZkbWh3MVR3SUhSUm9FRndqTEh1TkFiMHVpTl9DOHlJVGp3TXk2TU1lazhOOEVXa3BCZHFqaDVuaC1ueDBkN0pFY0tZeGo4UVJScnZ3SEp6RlNUNDh5ellHeEc1c1QxeFd2eEtyZF9oa05Kdnk3cFNELW5nRGtERzdBb1UzaW5pOWZoSEFYS0k?oc=5",
+   "domain": "oilprice.com",
+   "outlet": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-09-07",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "storage"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -5291,7 +8632,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -5317,7 +8658,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -5345,7 +8686,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -5429,7 +8770,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -5513,7 +8854,7 @@
     "water_use"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -5569,7 +8910,7 @@
     "structural_damage"
    ],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -5596,7 +8937,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -5683,7 +9024,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -5711,7 +9052,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -5737,8 +9078,37 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
+   "weak": false
+  },
+  {
+   "id": "cab5a42a2276",
+   "title": "Elected Officials Face Recalls Nationwide Over Data Center Support",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbm81aWJLLTdSaC1xZWNvZkRvRmFYSWNTWE9IdW4yS1RhTWU1T2N1YTE1UThSNWs1Zi1fSkFYZWluTHN1NlpqWEF4YjVWakZDQzNaZWlIcFpMMTVmZFZtUFgwUTFvN204dlJWblJvUUoxckMxWldBRFBmRTNlVFlmR014aWhQV3M2NWFYNmIyNzhvV1pIUVNGeHFRZw?oc=5",
+   "domain": "newsweek.com",
+   "outlet": "Newsweek",
+   "published": "2026-09-05",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt",
+    "tribal"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -5823,7 +9193,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -5957,7 +9327,7 @@
     "tax_abatement"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6015,6 +9385,35 @@
    "weak": false
   },
   {
+   "id": "57185db49074",
+   "title": "Developers eye Native nations, tribal communities for new data center projects",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanNqQ2pSVDhzQ1pDTjlfbEdtN05nd0tjckNQNUdxSDM0WFBjelZsT1RZc2tHVXUyRnl0X05wVlFRUjBUakJyM3ljSTlkdGRCTkZRMnRNZXF3ZEhuSXlmbTFuWDNCZ1FPbHNIc0VYLXRfNzBSWXNSSlJIc2JaQ3lTMXh2N19HT2xaclotS3lxb09sbnFUSUlkbWlUdHdKX2hnX0ZwdDJ2NUgzLXVVOUE0UzNOamdYQQ?oc=5",
+   "domain": "newsfromthestates.com",
+   "outlet": "newsfromthestates.com",
+   "published": "2026-09-04",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt",
+    "tribal"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "2080204f178c",
    "title": "Data center developer tries to change minds at Okmulgee event",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGV1bElHN0N2eHNyRjdGQmNiNDhJMVZjcFlkbC00NFlCYUZxaUVHMXJWbzFTWE0xa0xOV0gwcHpsZFpjYkZ6ZDhGMHJHVEFxT0lndkZmYzhxbjI3aEw4MnNrUEg3RFE3WUhmMGdXd2F6akVYRHNjT2xQOEUzbEdZei1aek9FbXNzY0RvM2gyTjNBbm82SjFTdkNaZ1lYTkI1OEQ0eTNsWUh1dkk2U3h2a1hXU2JXVkE4ekE2SFZ3?oc=5",
@@ -6069,7 +9468,7 @@
     "tax_abatement"
    ],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -6096,7 +9495,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6157,7 +9556,7 @@
     "drainage_erosion"
    ],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6185,7 +9584,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6211,7 +9610,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6263,7 +9662,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6294,7 +9693,7 @@
     "noise"
    ],
    "score": 5,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6350,7 +9749,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -6382,7 +9781,7 @@
     "benefits_doubt"
    ],
    "score": 5,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -6462,7 +9861,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6593,6 +9992,7 @@
     "googlenews"
    ],
    "topics": [
+    "data_center",
     "nuclear"
    ],
    "states": [
@@ -6606,7 +10006,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6634,7 +10034,7 @@
     "explosion_risk"
    ],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6714,7 +10114,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6744,7 +10144,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -6774,7 +10174,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6800,7 +10200,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -6826,7 +10226,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6880,7 +10280,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6908,7 +10308,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -6937,7 +10337,7 @@
     "tribal"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -6963,8 +10363,34 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
+   "weak": true
+  },
+  {
+   "id": "cc862e2c2a71",
+   "title": "Head - To - Head Review : Matrix Service ( NASDAQ : MTRX ) vs . Bouygues ( OTCMKTS : BOUYY )",
+   "url": "https://www.tickerreport.com/banking-finance/13569828/head-to-head-review-matrix-service-nasdaqmtrx-vs-bouygues-otcmktsbouyy.html",
+   "domain": "tickerreport.com",
+   "outlet": "tickerreport.com",
+   "published": "2026-09-02",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "hydrogen"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": true
   },
   {
@@ -7100,6 +10526,34 @@
    "weak": false
   },
   {
+   "id": "01a0d16705be",
+   "title": "Trump DOJ Fights to Save $6 . 9B Oklahoma Aluminum Plant",
+   "url": "https://radaronline.com/p/trump-doj-oklahoma-smelter-court-war-judge-toss-state-lawsuit/",
+   "domain": "radaronline.com",
+   "outlet": "radaronline.com",
+   "published": "2026-09-01",
+   "sources": [
+    "gdelt"
+   ],
+   "topics": [
+    "hydrogen"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
+  },
+  {
    "id": "55de5c2826b9",
    "title": "Redata: Speed ​​cannot replace energy planning.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGNmN3RSZ3ZzT05Rb2c0MktKU1FZcmcxSTJRTHprdUtSRTlqWkQ0U0xPdjhvdUN1bUk0OWN2dEVjdnBMS2RVdG9jQ0l3RElxU3hEMmpTem9URTJIRGV3NU9PN2pOWVdtSjNpVlhKZnVsVXVKeFBEU090elpnMW94MGNydzUyVW1SYkRGR3RuYTBOTGNBa1NzTUdwcVNLUQ?oc=5",
@@ -7147,7 +10601,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7179,7 +10633,7 @@
     "water_use"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7271,9 +10725,35 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
+  },
+  {
+   "id": "56dd2da9dccf",
+   "title": "OKC Utilities concludes Draper water discoloration investigation",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckhHOFRyazA1WGdFbkdiWlhsSE5fY1pIUTJJWUFmZU94TTBKY24xc2hodkIxNzlvOWZiWlotYzJkaW9qUXF5d1dzbVNUbE1jWGE0S21leDkxZ1VZM05VamZkSHJJYnFoa1RXdmVHcnR6TE5uNDAzRmg0Z3l6N19HNVVlSkdUM2Y4QnNaMm1YLUo?oc=5",
+   "domain": "yahoo.com",
+   "outlet": "Yahoo",
+   "published": "2026-09-01",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
   },
   {
    "id": "07d32a8d52ab",
@@ -7300,7 +10780,7 @@
     "local_control"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7326,7 +10806,7 @@
    ],
    "cues": [],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7380,7 +10860,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7466,7 +10946,7 @@
     "water_use"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7516,7 +10996,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -7544,7 +11024,7 @@
     "explosion_risk"
    ],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -7604,7 +11084,7 @@
     "water_use"
    ],
    "score": 5,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7630,7 +11110,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -7658,7 +11138,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7686,7 +11166,7 @@
    ],
    "cues": [],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7714,7 +11194,7 @@
     "explosion_risk"
    ],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -7742,7 +11222,7 @@
     "thermal_runaway"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7800,7 +11280,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7828,7 +11308,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -7858,7 +11338,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7884,7 +11364,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -7912,7 +11392,7 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -7966,9 +11446,37 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
+  },
+  {
+   "id": "ca963f321121",
+   "title": "City of El Reno condemns Bitcoin mining facility after massive water leak, citing safety violations",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDRFQTZrbzczUFBHaFRCSFctNFNTVnZHc2swdGJ2MkdTNEVlSzVULTlyYXQ4cEl4Z3ItUFhNWF92cFJUMjU2VzIwSUlYclZibjRaUGFEbEZrbGVMR2tTY2VteTlWTUdWb0dYTkIxUmNERXhDWDY5dWhBektUVFBUQlRLUDRuVzA?oc=5",
+   "domain": "koco.com",
+   "outlet": "KOCO",
+   "published": "2026-08-31",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "explosion_risk"
+   ],
+   "score": 1,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": true
   },
   {
    "id": "1435034afe0d",
@@ -7994,7 +11502,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -8024,7 +11532,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8108,6 +11616,35 @@
    "weak": true
   },
   {
+   "id": "8328dac97fd0",
+   "title": "Oklahoma City couple sues to force release of stalled State Farm roof-claims report",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNam9DempvcGZBS0hjdS1Gei1jZzFxT0hDVkFrblRnTWpQUnFrNjhqekkzOG1iVDZ4R2d1eEpLbU1jX0N2TlY0Y0tENTltbDRQdFpKM25qbzJxd0RkVFRkc2FKeHRySHNzTUcteVRzdXAtZEU2VmRvaUl4amVmRERyNGo2b1g5QWFLMnk3X1dQazk?oc=5",
+   "domain": "thecooldown.com",
+   "outlet": "The Cool Down",
+   "published": "2026-08-30",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "solar",
+    "storage"
+   ],
+   "states": [
+    "Oklahoma"
+   ],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
+  },
+  {
    "id": "2fb8436dfcb3",
    "title": "Legislators file 14th Supreme Court challenge of rate issue approved by regulators",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2FRZ1l6bFU5WkwwZ3NHanZQdU9XMjFPSjNnTHhZbjJzRmVIWHFsOENKeVNOeHVIU2pQekIwVUlsNGVyZkgtSWo0eHF5YmJzMk1WYzBzXzNqdWJ0c2FVRmJYOTdwZ1ZkVmhwV2tJNWs3Z09yQldLaG42N3RFOGxMYVh5NVdMX29nUzUxSGdEcUxiSW5wZUNzRDdwRnVjelAzU0tKR1FQQ2MxQUpfTGRpM3FjTk5pQTZU?oc=5",
@@ -8155,7 +11692,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8215,7 +11752,7 @@
     "benefits_doubt"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8245,7 +11782,7 @@
     "water_use"
    ],
    "score": 4,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8277,7 +11814,7 @@
     "water_use"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8334,7 +11871,7 @@
     "farmland_loss"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -8360,7 +11897,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8386,7 +11923,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8417,6 +11954,34 @@
    "last_seen": "2026-09-18",
    "first_seen": "2026-09-18",
    "weak": true
+  },
+  {
+   "id": "e1e8496b2feb",
+   "title": "Energy Secretary Jeff Starling discusses federal nuclear energy innovation campus proposal",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQms3NFh0N21WUDMzX2hBNFNrS1NGZ2NpMktqUjg1bXBCczNxemdYVkhkUjBKNVMycHE5c0F2LXNsR1hGTGVqRWZ0cV9OMjhlcUw3T2x1dEJFb2hMSWFoa2tkbWJsazBWN2hmeVlMNl94SEJMSnNZZWJXeDNPN3c1dk5QM1oyR3l0M2diZDJUdDdFNzA?oc=5",
+   "domain": "news9.com",
+   "outlet": "News 9",
+   "published": "2026-08-29",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "tax_abatement"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "weak": false
   },
   {
    "id": "512c6a4cb149",
@@ -8469,7 +12034,7 @@
    ],
    "cues": [],
    "score": 1,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8523,7 +12088,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -8552,7 +12117,7 @@
     "explosion_risk"
    ],
    "score": 3,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8607,7 +12172,7 @@
     "support_energy"
    ],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8635,8 +12200,36 @@
     "benefits_doubt"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
+   "weak": false
+  },
+  {
+   "id": "a5d60221b7ec",
+   "title": "Brecheen gives views on data centers, smelter, election denial in McAlester",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHc1OWNDUC1hdlZZdWMyUzY0OUQ4R1dsRUZmaEhfRVplcFA0NElEWlhuQ2tLWFpOU3lhUUs4RjAyQ3VMeUZEQXB0cElfd21XVDAwMXlSdzY5aklHTVVZMTJEVXRwSUxxSW5IR3Vzc1M5dTJRck9PYVB1LWdkbTBIRnNRS1NNam5RMEJpdTZFNTM5X3hoSk1SMDU0NUlaQ00tQzVWSGtVbGtYV0pISVVz?oc=5",
+   "domain": "kjrh.com",
+   "outlet": "2 News Oklahoma KJRH Tulsa",
+   "published": "2026-08-28",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "data_center"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [
+    "benefits_doubt"
+   ],
+   "score": 2,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": false
   },
   {
@@ -8661,7 +12254,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8714,7 +12307,7 @@
     "tax_abatement"
    ],
    "score": 2,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": false
   },
@@ -8744,7 +12337,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8770,7 +12363,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8796,8 +12389,34 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
+   "weak": true
+  },
+  {
+   "id": "a66501920571",
+   "title": "Fleet Of 'Doomsday Planes' Spotted Flying Over America After CIA Director Takes Mysterious Trip To Russia",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFhZcDBhU05iSjJETjlUMFItaU1rNG5adW1zbl9WLXZvOVkwV21MWGhJNFdIaXlKMTFKZHgxYUotUlRfWjRiS2xPOVFmTDFqcFZETjBQaTBCOXlIS3QtOXhpaTZOb3VaaGRDeE91amt0NHRwUzdCX1JUX0pGTno5Wk1Vck0?oc=5",
+   "domain": "brobible.com",
+   "outlet": "BroBible",
+   "published": "2026-08-27",
+   "sources": [
+    "googlenews"
+   ],
+   "topics": [
+    "nuclear"
+   ],
+   "states": [],
+   "elsewhere": false,
+   "other_states": [],
+   "counties": [],
+   "via_states": [
+    "Oklahoma"
+   ],
+   "cues": [],
+   "score": 0,
+   "last_seen": "2026-09-25",
+   "first_seen": "2026-09-25",
    "weak": true
   },
   {
@@ -8824,7 +12443,7 @@
     "water_quality"
    ],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8883,7 +12502,7 @@
     "water_use"
    ],
    "score": 3,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -8911,7 +12530,7 @@
     "drainage_erosion"
    ],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -8937,7 +12556,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-18",
    "weak": true
   },
@@ -9019,7 +12638,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -11630,7 +15249,7 @@
    ],
    "cues": [],
    "score": 0,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": true
   },
@@ -21133,7 +24752,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
@@ -22399,7 +26018,7 @@
     "benefits_doubt"
    ],
    "score": 4,
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-25",
    "first_seen": "2026-09-14",
    "weak": false
   },
